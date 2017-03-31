@@ -11,7 +11,7 @@ Jens Dede, 2017, jd@comnets.uni-bremen.de
 # Lists
 ###
 print 5*"#", "Lists"
-l = []          # Empty list
+l = [1,2,3]          # List with three values
 
 # Append some items (numbers)
 l.append(12)
@@ -75,3 +75,12 @@ print "data:", data
 for key in data:
     print "key:", key
     print "data:", data[key]
+
+# Init a dictionary with values
+myDict = {
+        "valueA": "Hallo",
+        "valueB": [1,2,3,4]
+        }
+
+print myDict
+print myDict["valueA"]

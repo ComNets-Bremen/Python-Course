@@ -45,5 +45,6 @@ Commented example files
 1. [csvExample.py](csvExample.py)
 1. [argumentParserExample.py](argumentParserExample.py)
 1. [matplotlibExample.py](matplotlibExample.py)
+1. [pickleExample.py](pickleExample.py)
 1. [regularExpressionExample.py](regularExpressionExample.py)
 
