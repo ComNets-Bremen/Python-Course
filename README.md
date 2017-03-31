@@ -19,4 +19,4 @@ Content
 License
 -------
 
-The content of this repository is licensed under the GPLv3 license
+The content of this repository is licensed under GPLv3

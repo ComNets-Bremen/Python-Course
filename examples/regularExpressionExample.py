@@ -8,6 +8,7 @@ https://docs.python.org/2/library/re.html
 Tools:
     Evaluate regex online: https://regex101.com/
     Another webpage with lots of examples: http://www.regexr.com/
+    Visual regex: https://www.debuggex.com/
 
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
@@ -21,7 +22,7 @@ logfile = os.path.join("files", "logfileA.log") # Works for Windows and Linux
 checkTerm1 = re.compile("^At timestamp (?P<timestamp>[.?\d]+)")
 
 # Check the complete string
-checkTerm2 = re.compile("^At timestamp (?P<timestamp>[.?\d]+) we received data: valueA=(?P<valueA>[.?\-?\d]+) valueB=(?P<valueB>[.?\-?\d]+)$")
+checkTerm2 = re.compile("^At timestamp (?P<timestamp>[.?\d]+) we received data: valueA=(?P<valueA>\-?[.?\d]+) valueB=(?P<valueB>\-?[.?\d]+)$")
 
 with open(logfile, "r") as f:        # Open file
     for line in f:                   # Iterate over all lines

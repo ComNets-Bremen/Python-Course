@@ -26,5 +26,5 @@ print "Parsed time format 3:", parser.parse("11:03")
 
 print "Datetime from timestamp:", datetime.datetime.fromtimestamp(1010101010.10)
 
-newYear = datetime.datetime(2017,01,01)
+newYear = datetime.datetime(2017, 1, 1)
 print "New year", newYear
