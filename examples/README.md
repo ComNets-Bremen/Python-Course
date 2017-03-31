@@ -13,7 +13,7 @@ Python example files
 1. [functionExample.py](functionExample.py)
 1. [datetimeExample.py](datetimeExample.py)
 1. [numpyExample.py](numpyExample.py)
-1. [[classExample.pyc](lassExample.py), [myClassExample.py](myClassExample.py)
+1. [classExample.pyc](lassExample.py), [myClassExample.py](myClassExample.py)
 1. [csvExample.py](csvExample.py)
 1. [argumentParserExample.py](argumentParserExample.py)
 1. [matplotlibExample.py](matplotlibExample.py)
