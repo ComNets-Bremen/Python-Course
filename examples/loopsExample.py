@@ -3,6 +3,9 @@
 """
 Examples for loops
 
+https://docs.python.org/2.7/reference/compound_stmts.html#for
+https://docs.python.org/2.7/reference/compound_stmts.html#while
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 

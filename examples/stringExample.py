@@ -3,6 +3,8 @@
 """
 Examples for string handling
 
+https://docs.python.org/2.7/library/string.html
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 

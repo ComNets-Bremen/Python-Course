@@ -3,6 +3,8 @@
 """
 Text input examples
 
+https://docs.python.org/2.7/reference/simple_stmts.html#print
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 

@@ -1,6 +1,8 @@
 """
 Example Python class
 
+https://docs.python.org/2.7/tutorial/classes.html#a-first-look-at-classes
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 

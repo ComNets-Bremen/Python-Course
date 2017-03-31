@@ -3,6 +3,8 @@
 """
 Examples using lists, tuples and dictionaries (dict)
 
+https://docs.python.org/2.7/tutorial/datastructures.html
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 

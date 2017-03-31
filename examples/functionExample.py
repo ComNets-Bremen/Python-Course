@@ -3,6 +3,8 @@
 """
 Examples for functions
 
+https://docs.python.org/2.7/tutorial/controlflow.html#defining-functions
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 

@@ -3,6 +3,8 @@
 """
 Examples for basic number handling
 
+https://docs.python.org/2.7/library/stdtypes.html#numeric-types-int-float-long-complex
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 

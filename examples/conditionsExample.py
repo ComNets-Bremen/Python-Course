@@ -3,6 +3,8 @@
 """
 Examples for conditions (if, else...)
 
+https://docs.python.org/2.7/tutorial/controlflow.html#if-statements
+
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
 
