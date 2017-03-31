@@ -1,0 +1,1437 @@
+At timestamp 100.0 we received data: valueA=1 valueB=1
+At timestamp 100.05 we received data: valueA=1 valueB=1
+At timestamp 100.09999999999999 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 100.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 100.2 we received data: valueA=1 valueB=1
+At timestamp 100.25 we received data: valueA=1 valueB=1
+User: f
+At timestamp 100.3 we received data: valueA=1 valueB=1
+At timestamp 100.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 100.40000000000001 we received data: valueA=1 valueB=1
+User: e
+At timestamp 100.45 we received data: valueA=1 valueB=1
+At timestamp 100.5 we received data: valueA=1 valueB=1
+At timestamp 100.55 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 100.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 100.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 100.7 we received data: valueA=1 valueB=1
+At timestamp 100.75 we received data: valueA=1 valueB=1
+At timestamp 100.8 we received data: valueA=1 valueB=1
+At timestamp 100.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 100.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 100.95 we received data: valueA=1 valueB=1
+At timestamp 101.0 we received data: valueA=1 valueB=1
+At timestamp 101.05 we received data: valueA=1 valueB=1
+At timestamp 101.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 101.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 101.2 we received data: valueA=1 valueB=1
+At timestamp 101.25 we received data: valueA=1 valueB=1
+At timestamp 101.3 we received data: valueA=1 valueB=1
+At timestamp 101.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 101.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 101.45 we received data: valueA=1 valueB=1
+At timestamp 101.5 we received data: valueA=1 valueB=1
+At timestamp 101.55 we received data: valueA=1 valueB=1
+User: c
+At timestamp 101.59999999999999 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 101.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 101.7 we received data: valueA=1 valueB=1
+At timestamp 101.75 we received data: valueA=1 valueB=1
+At timestamp 101.8 we received data: valueA=1 valueB=1
+At timestamp 101.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 101.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 101.95 we received data: valueA=1 valueB=1
+At timestamp 102.0 we received data: valueA=1 valueB=1
+At timestamp 102.05 we received data: valueA=1 valueB=1
+At timestamp 102.09999999999999 we received data: valueA=1 valueB=1
+Status: add
+At timestamp 102.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 102.2 we received data: valueA=1 valueB=1
+User: e
+At timestamp 102.25 we received data: valueA=1 valueB=1
+At timestamp 102.3 we received data: valueA=1 valueB=1
+At timestamp 102.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 102.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 102.45 we received data: valueA=1 valueB=1
+At timestamp 102.5 we received data: valueA=1 valueB=1
+At timestamp 102.55 we received data: valueA=1 valueB=1
+At timestamp 102.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 102.65000000000001 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 102.7 we received data: valueA=1 valueB=1
+System restart
+At timestamp 102.75 we received data: valueA=1 valueB=1
+At timestamp 102.8 we received data: valueA=1 valueB=1
+At timestamp 102.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 102.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 102.95 we received data: valueA=1 valueB=0
+At timestamp 103.0 we received data: valueA=1 valueB=1
+At timestamp 103.05 we received data: valueA=1 valueB=1
+User: f
+At timestamp 103.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 103.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 103.2 we received data: valueA=1 valueB=0
+At timestamp 103.25 we received data: valueA=1 valueB=0
+At timestamp 103.3 we received data: valueA=1 valueB=0
+At timestamp 103.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 103.40000000000001 we received data: valueA=1 valueB=0
+User: b
+At timestamp 103.45 we received data: valueA=1 valueB=0
+At timestamp 103.5 we received data: valueA=1 valueB=0
+User: b
+At timestamp 103.55 we received data: valueA=1 valueB=0
+At timestamp 103.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 103.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 103.7 we received data: valueA=1 valueB=0
+User: e
+At timestamp 103.75 we received data: valueA=1 valueB=0
+At timestamp 103.8 we received data: valueA=1 valueB=0
+At timestamp 103.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 103.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 103.95 we received data: valueA=1 valueB=0
+VarX=99
+At timestamp 104.0 we received data: valueA=1 valueB=0
+At timestamp 104.05 we received data: valueA=1 valueB=0
+At timestamp 104.09999999999999 we received data: valueA=1 valueB=0
+User: b
+At timestamp 104.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 104.2 we received data: valueA=1 valueB=0
+At timestamp 104.25 we received data: valueA=1 valueB=0
+At timestamp 104.3 we received data: valueA=1 valueB=0
+At timestamp 104.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 104.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 104.45 we received data: valueA=1 valueB=0
+At timestamp 104.5 we received data: valueA=1 valueB=0
+At timestamp 104.55 we received data: valueA=1 valueB=0
+At timestamp 104.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 104.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 104.7 we received data: valueA=1 valueB=0
+At timestamp 104.75 we received data: valueA=1 valueB=0
+At timestamp 104.8 we received data: valueA=1 valueB=0
+At timestamp 104.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 104.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 104.95 we received data: valueA=1 valueB=0
+At timestamp 105.0 we received data: valueA=1 valueB=0
+At timestamp 105.05 we received data: valueA=1 valueB=0
+At timestamp 105.09999999999999 we received data: valueA=0 valueB=0
+VarX=99
+At timestamp 105.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 105.2 we received data: valueA=0 valueB=0
+At timestamp 105.25 we received data: valueA=0 valueB=0
+At timestamp 105.3 we received data: valueA=1 valueB=0
+At timestamp 105.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 105.40000000000001 we received data: valueA=0 valueB=0
+At timestamp 105.45 we received data: valueA=0 valueB=0
+At timestamp 105.5 we received data: valueA=1 valueB=0
+At timestamp 105.55 we received data: valueA=0 valueB=0
+Status: mod
+At timestamp 105.59999999999999 we received data: valueA=1 valueB=0
+Status: add
+At timestamp 105.65000000000001 we received data: valueA=0 valueB=0
+Status: mod
+At timestamp 105.7 we received data: valueA=0 valueB=0
+At timestamp 105.75 we received data: valueA=0 valueB=0
+At timestamp 105.8 we received data: valueA=0 valueB=0
+At timestamp 105.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 105.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 105.95 we received data: valueA=0 valueB=0
+At timestamp 106.0 we received data: valueA=0 valueB=0
+At timestamp 106.05 we received data: valueA=0 valueB=0
+At timestamp 106.09999999999999 we received data: valueA=0 valueB=0
+At timestamp 106.15000000000001 we received data: valueA=0 valueB=0
+User: c
+At timestamp 106.2 we received data: valueA=0 valueB=0
+User: f
+At timestamp 106.25 we received data: valueA=0 valueB=0
+At timestamp 106.3 we received data: valueA=0 valueB=0
+VarX=99
+At timestamp 106.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 106.40000000000001 we received data: valueA=0 valueB=0
+At timestamp 106.45 we received data: valueA=0 valueB=0
+User: d
+At timestamp 106.5 we received data: valueA=0 valueB=0
+At timestamp 106.55 we received data: valueA=0 valueB=0
+At timestamp 106.59999999999999 we received data: valueA=0 valueB=0
+User: a
+At timestamp 106.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 106.7 we received data: valueA=0 valueB=0
+At timestamp 106.75 we received data: valueA=0 valueB=1
+At timestamp 106.8 we received data: valueA=0 valueB=0
+At timestamp 106.84999999999999 we received data: valueA=0 valueB=0
+Status: rm
+At timestamp 106.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 106.95 we received data: valueA=0 valueB=0
+At timestamp 107.0 we received data: valueA=0 valueB=1
+User: c
+At timestamp 107.05 we received data: valueA=0 valueB=1
+At timestamp 107.09999999999999 we received data: valueA=0 valueB=1
+User: e
+At timestamp 107.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 107.2 we received data: valueA=0 valueB=1
+At timestamp 107.25 we received data: valueA=0 valueB=0
+At timestamp 107.3 we received data: valueA=0 valueB=1
+At timestamp 107.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 107.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 107.45 we received data: valueA=0 valueB=1
+User: f
+At timestamp 107.5 we received data: valueA=0 valueB=1
+At timestamp 107.55 we received data: valueA=0 valueB=1
+Status: rm
+At timestamp 107.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 107.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 107.7 we received data: valueA=0 valueB=1
+At timestamp 107.75 we received data: valueA=0 valueB=1
+At timestamp 107.8 we received data: valueA=0 valueB=1
+At timestamp 107.84999999999999 we received data: valueA=0 valueB=1
+User: c
+At timestamp 107.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 107.95 we received data: valueA=0 valueB=1
+User: b
+At timestamp 108.0 we received data: valueA=0 valueB=1
+At timestamp 108.05 we received data: valueA=0 valueB=1
+At timestamp 108.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 108.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 108.2 we received data: valueA=0 valueB=1
+System restart
+At timestamp 108.25 we received data: valueA=0 valueB=1
+VarX=99
+At timestamp 108.3 we received data: valueA=0 valueB=1
+At timestamp 108.34999999999999 we received data: valueA=0 valueB=1
+Status: mod
+At timestamp 108.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 108.45 we received data: valueA=0 valueB=1
+At timestamp 108.5 we received data: valueA=0 valueB=1
+At timestamp 108.55 we received data: valueA=0 valueB=1
+System restart
+At timestamp 108.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 108.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 108.7 we received data: valueA=0 valueB=1
+At timestamp 108.75 we received data: valueA=0 valueB=1
+At timestamp 108.8 we received data: valueA=0 valueB=1
+VarX=99
+At timestamp 108.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 108.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 108.95 we received data: valueA=0 valueB=1
+At timestamp 109.0 we received data: valueA=0 valueB=1
+At timestamp 109.05 we received data: valueA=0 valueB=1
+At timestamp 109.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 109.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 109.2 we received data: valueA=0 valueB=1
+Status: add
+At timestamp 109.25 we received data: valueA=0 valueB=1
+At timestamp 109.3 we received data: valueA=0 valueB=1
+At timestamp 109.34999999999999 we received data: valueA=1 valueB=1
+System restart
+At timestamp 109.40000000000001 we received data: valueA=0 valueB=1
+VarX=99
+At timestamp 109.45 we received data: valueA=0 valueB=1
+At timestamp 109.5 we received data: valueA=0 valueB=1
+User: f
+At timestamp 109.55 we received data: valueA=0 valueB=1
+At timestamp 109.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 109.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 109.7 we received data: valueA=0 valueB=1
+User: e
+At timestamp 109.75 we received data: valueA=0 valueB=1
+At timestamp 109.8 we received data: valueA=1 valueB=1
+At timestamp 109.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 109.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 109.95 we received data: valueA=1 valueB=1
+At timestamp 110.0 we received data: valueA=1 valueB=1
+At timestamp 110.05 we received data: valueA=1 valueB=1
+User: c
+At timestamp 110.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 110.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 110.2 we received data: valueA=1 valueB=1
+At timestamp 110.25 we received data: valueA=1 valueB=1
+At timestamp 110.3 we received data: valueA=1 valueB=1
+At timestamp 110.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 110.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 110.45 we received data: valueA=1 valueB=1
+At timestamp 110.5 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 110.55 we received data: valueA=1 valueB=1
+At timestamp 110.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 110.65000000000001 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 110.7 we received data: valueA=1 valueB=1
+At timestamp 110.75 we received data: valueA=1 valueB=1
+At timestamp 110.8 we received data: valueA=1 valueB=1
+At timestamp 110.84999999999999 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 110.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 110.95 we received data: valueA=1 valueB=1
+At timestamp 111.0 we received data: valueA=1 valueB=1
+User: a
+At timestamp 111.05 we received data: valueA=1 valueB=1
+At timestamp 111.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 111.15000000000001 we received data: valueA=1 valueB=1
+User: d
+At timestamp 111.2 we received data: valueA=1 valueB=1
+At timestamp 111.25 we received data: valueA=1 valueB=1
+At timestamp 111.3 we received data: valueA=1 valueB=1
+At timestamp 111.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 111.40000000000001 we received data: valueA=1 valueB=1
+User: c
+At timestamp 111.45 we received data: valueA=1 valueB=1
+At timestamp 111.5 we received data: valueA=1 valueB=1
+At timestamp 111.55 we received data: valueA=1 valueB=1
+At timestamp 111.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 111.65000000000001 we received data: valueA=1 valueB=1
+User: f
+At timestamp 111.7 we received data: valueA=1 valueB=1
+At timestamp 111.75 we received data: valueA=1 valueB=1
+At timestamp 111.8 we received data: valueA=1 valueB=1
+At timestamp 111.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 111.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 111.95 we received data: valueA=1 valueB=1
+User: a
+At timestamp 112.0 we received data: valueA=1 valueB=1
+User: e
+At timestamp 112.05 we received data: valueA=1 valueB=1
+At timestamp 112.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 112.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 112.2 we received data: valueA=1 valueB=1
+At timestamp 112.25 we received data: valueA=1 valueB=1
+At timestamp 112.3 we received data: valueA=1 valueB=1
+At timestamp 112.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 112.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 112.45 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 112.5 we received data: valueA=1 valueB=1
+User: d
+At timestamp 112.55 we received data: valueA=1 valueB=1
+At timestamp 112.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 112.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 112.7 we received data: valueA=1 valueB=1
+At timestamp 112.75 we received data: valueA=1 valueB=1
+At timestamp 112.8 we received data: valueA=1 valueB=1
+At timestamp 112.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 112.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 112.95 we received data: valueA=1 valueB=1
+At timestamp 113.0 we received data: valueA=1 valueB=0
+At timestamp 113.05 we received data: valueA=1 valueB=1
+At timestamp 113.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 113.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 113.2 we received data: valueA=1 valueB=0
+At timestamp 113.25 we received data: valueA=1 valueB=1
+At timestamp 113.3 we received data: valueA=1 valueB=0
+Status: mod
+At timestamp 113.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 113.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 113.45 we received data: valueA=1 valueB=0
+User: c
+At timestamp 113.5 we received data: valueA=1 valueB=0
+At timestamp 113.55 we received data: valueA=1 valueB=0
+User: a
+At timestamp 113.59999999999999 we received data: valueA=1 valueB=0
+User: c
+At timestamp 113.65000000000001 we received data: valueA=1 valueB=0
+User: b
+At timestamp 113.7 we received data: valueA=1 valueB=0
+At timestamp 113.75 we received data: valueA=1 valueB=0
+At timestamp 113.8 we received data: valueA=1 valueB=0
+At timestamp 113.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 113.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 113.95 we received data: valueA=1 valueB=0
+At timestamp 114.0 we received data: valueA=1 valueB=0
+At timestamp 114.05 we received data: valueA=1 valueB=0
+At timestamp 114.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 114.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 114.2 we received data: valueA=1 valueB=0
+At timestamp 114.25 we received data: valueA=1 valueB=0
+User: e
+At timestamp 114.3 we received data: valueA=1 valueB=0
+At timestamp 114.34999999999999 we received data: valueA=1 valueB=0
+User: e
+At timestamp 114.40000000000001 we received data: valueA=1 valueB=0
+VarX=99
+At timestamp 114.45 we received data: valueA=1 valueB=0
+At timestamp 114.5 we received data: valueA=1 valueB=0
+At timestamp 114.55 we received data: valueA=1 valueB=0
+At timestamp 114.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 114.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 114.7 we received data: valueA=1 valueB=0
+At timestamp 114.75 we received data: valueA=1 valueB=0
+User: b
+At timestamp 114.8 we received data: valueA=1 valueB=0
+At timestamp 114.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 114.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 114.95 we received data: valueA=1 valueB=0
+At timestamp 115.0 we received data: valueA=1 valueB=0
+At timestamp 115.05 we received data: valueA=1 valueB=0
+At timestamp 115.09999999999999 we received data: valueA=1 valueB=0
+Status: mod
+At timestamp 115.15000000000001 we received data: valueA=1 valueB=0
+User: e
+At timestamp 115.2 we received data: valueA=1 valueB=0
+At timestamp 115.25 we received data: valueA=1 valueB=0
+Status: rm
+At timestamp 115.3 we received data: valueA=1 valueB=0
+At timestamp 115.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 115.40000000000001 we received data: valueA=0 valueB=0
+At timestamp 115.45 we received data: valueA=0 valueB=0
+At timestamp 115.5 we received data: valueA=1 valueB=0
+At timestamp 115.55 we received data: valueA=0 valueB=0
+At timestamp 115.59999999999999 we received data: valueA=0 valueB=0
+User: e
+At timestamp 115.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 115.7 we received data: valueA=1 valueB=0
+At timestamp 115.75 we received data: valueA=0 valueB=0
+At timestamp 115.8 we received data: valueA=0 valueB=0
+At timestamp 115.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 115.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 115.95 we received data: valueA=0 valueB=0
+At timestamp 116.0 we received data: valueA=0 valueB=0
+At timestamp 116.05 we received data: valueA=0 valueB=0
+At timestamp 116.09999999999999 we received data: valueA=0 valueB=0
+At timestamp 116.15000000000001 we received data: valueA=0 valueB=0
+At timestamp 116.2 we received data: valueA=0 valueB=0
+User: d
+At timestamp 116.25 we received data: valueA=0 valueB=0
+At timestamp 116.3 we received data: valueA=0 valueB=0
+User: a
+At timestamp 116.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 116.40000000000001 we received data: valueA=0 valueB=0
+At timestamp 116.45 we received data: valueA=0 valueB=0
+At timestamp 116.5 we received data: valueA=0 valueB=0
+At timestamp 116.55 we received data: valueA=0 valueB=0
+At timestamp 116.59999999999999 we received data: valueA=0 valueB=0
+At timestamp 116.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 116.7 we received data: valueA=0 valueB=0
+Status: rm
+At timestamp 116.75 we received data: valueA=0 valueB=0
+At timestamp 116.8 we received data: valueA=0 valueB=0
+User: e
+At timestamp 116.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 116.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 116.95 we received data: valueA=0 valueB=0
+At timestamp 117.0 we received data: valueA=0 valueB=0
+At timestamp 117.05 we received data: valueA=0 valueB=1
+At timestamp 117.09999999999999 we received data: valueA=0 valueB=0
+At timestamp 117.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 117.2 we received data: valueA=0 valueB=1
+At timestamp 117.25 we received data: valueA=0 valueB=1
+At timestamp 117.3 we received data: valueA=0 valueB=0
+At timestamp 117.34999999999999 we received data: valueA=0 valueB=1
+User: c
+At timestamp 117.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 117.45 we received data: valueA=0 valueB=1
+At timestamp 117.5 we received data: valueA=0 valueB=1
+At timestamp 117.55 we received data: valueA=0 valueB=1
+Status: add
+At timestamp 117.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 117.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 117.7 we received data: valueA=0 valueB=1
+Status: mod
+At timestamp 117.75 we received data: valueA=0 valueB=1
+System restart
+At timestamp 117.8 we received data: valueA=0 valueB=1
+Status: mod
+At timestamp 117.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 117.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 117.95 we received data: valueA=0 valueB=1
+At timestamp 118.0 we received data: valueA=0 valueB=1
+At timestamp 118.05 we received data: valueA=0 valueB=1
+At timestamp 118.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 118.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 118.2 we received data: valueA=0 valueB=1
+At timestamp 118.25 we received data: valueA=0 valueB=1
+At timestamp 118.3 we received data: valueA=0 valueB=1
+At timestamp 118.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 118.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 118.45 we received data: valueA=0 valueB=1
+VarX=99
+At timestamp 118.5 we received data: valueA=0 valueB=1
+At timestamp 118.55 we received data: valueA=0 valueB=1
+At timestamp 118.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 118.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 118.7 we received data: valueA=0 valueB=1
+At timestamp 118.75 we received data: valueA=0 valueB=1
+At timestamp 118.8 we received data: valueA=0 valueB=1
+At timestamp 118.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 118.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 118.95 we received data: valueA=0 valueB=1
+At timestamp 119.0 we received data: valueA=0 valueB=1
+User: b
+At timestamp 119.05 we received data: valueA=0 valueB=1
+At timestamp 119.09999999999999 we received data: valueA=0 valueB=1
+Status: add
+At timestamp 119.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 119.2 we received data: valueA=0 valueB=1
+User: a
+At timestamp 119.25 we received data: valueA=0 valueB=1
+At timestamp 119.3 we received data: valueA=0 valueB=1
+At timestamp 119.34999999999999 we received data: valueA=1 valueB=1
+User: f
+At timestamp 119.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 119.45 we received data: valueA=1 valueB=1
+At timestamp 119.5 we received data: valueA=1 valueB=1
+User: e
+At timestamp 119.55 we received data: valueA=1 valueB=1
+User: d
+At timestamp 119.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 119.65000000000001 we received data: valueA=1 valueB=1
+User: e
+At timestamp 119.7 we received data: valueA=0 valueB=1
+At timestamp 119.75 we received data: valueA=0 valueB=1
+At timestamp 119.8 we received data: valueA=1 valueB=1
+At timestamp 119.84999999999999 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 119.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 119.95 we received data: valueA=1 valueB=1
+User: d
+At timestamp 120.0 we received data: valueA=1 valueB=1
+At timestamp 120.05 we received data: valueA=1 valueB=1
+At timestamp 120.09999999999999 we received data: valueA=1 valueB=1
+User: c
+At timestamp 120.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 120.2 we received data: valueA=1 valueB=1
+At timestamp 120.25 we received data: valueA=1 valueB=1
+At timestamp 120.3 we received data: valueA=1 valueB=1
+At timestamp 120.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 120.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 120.45 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 120.5 we received data: valueA=1 valueB=1
+At timestamp 120.55 we received data: valueA=1 valueB=1
+At timestamp 120.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 120.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 120.7 we received data: valueA=1 valueB=1
+At timestamp 120.75 we received data: valueA=1 valueB=1
+At timestamp 120.8 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 120.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 120.90000000000001 we received data: valueA=1 valueB=1
+User: b
+At timestamp 120.95 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 121.0 we received data: valueA=1 valueB=1
+User: c
+At timestamp 121.05 we received data: valueA=1 valueB=1
+Status: add
+At timestamp 121.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 121.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 121.2 we received data: valueA=1 valueB=1
+At timestamp 121.25 we received data: valueA=1 valueB=1
+At timestamp 121.3 we received data: valueA=1 valueB=1
+At timestamp 121.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 121.40000000000001 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 121.45 we received data: valueA=1 valueB=1
+At timestamp 121.5 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 121.55 we received data: valueA=1 valueB=1
+At timestamp 121.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 121.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 121.7 we received data: valueA=1 valueB=1
+At timestamp 121.75 we received data: valueA=1 valueB=1
+At timestamp 121.8 we received data: valueA=1 valueB=1
+At timestamp 121.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 121.90000000000001 we received data: valueA=1 valueB=1
+System restart
+At timestamp 121.95 we received data: valueA=1 valueB=1
+User: f
+At timestamp 122.0 we received data: valueA=1 valueB=1
+At timestamp 122.05 we received data: valueA=1 valueB=1
+At timestamp 122.09999999999999 we received data: valueA=1 valueB=1
+User: d
+At timestamp 122.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 122.2 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 122.25 we received data: valueA=1 valueB=1
+At timestamp 122.3 we received data: valueA=1 valueB=1
+At timestamp 122.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 122.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 122.45 we received data: valueA=1 valueB=1
+At timestamp 122.5 we received data: valueA=1 valueB=1
+At timestamp 122.55 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 122.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 122.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 122.7 we received data: valueA=1 valueB=1
+At timestamp 122.75 we received data: valueA=1 valueB=1
+At timestamp 122.8 we received data: valueA=1 valueB=0
+At timestamp 122.84999999999999 we received data: valueA=1 valueB=1
+User: a
+At timestamp 122.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 122.95 we received data: valueA=1 valueB=0
+At timestamp 123.0 we received data: valueA=1 valueB=0
+At timestamp 123.05 we received data: valueA=1 valueB=1
+At timestamp 123.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 123.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 123.2 we received data: valueA=1 valueB=0
+At timestamp 123.25 we received data: valueA=1 valueB=0
+At timestamp 123.3 we received data: valueA=1 valueB=0
+At timestamp 123.34999999999999 we received data: valueA=1 valueB=0
+System restart
+At timestamp 123.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 123.45 we received data: valueA=1 valueB=0
+At timestamp 123.5 we received data: valueA=1 valueB=0
+Status: mod
+At timestamp 123.55 we received data: valueA=1 valueB=0
+User: e
+At timestamp 123.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 123.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 123.7 we received data: valueA=1 valueB=0
+User: d
+At timestamp 123.75 we received data: valueA=1 valueB=0
+At timestamp 123.8 we received data: valueA=1 valueB=0
+At timestamp 123.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 123.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 123.95 we received data: valueA=1 valueB=0
+At timestamp 124.0 we received data: valueA=1 valueB=0
+User: e
+At timestamp 124.05 we received data: valueA=1 valueB=0
+At timestamp 124.09999999999999 we received data: valueA=1 valueB=0
+Status: rm
+At timestamp 124.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 124.2 we received data: valueA=1 valueB=0
+At timestamp 124.25 we received data: valueA=1 valueB=0
+VarX=99
+At timestamp 124.3 we received data: valueA=1 valueB=0
+Status: rm
+At timestamp 124.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 124.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 124.45 we received data: valueA=1 valueB=0
+At timestamp 124.5 we received data: valueA=1 valueB=0
+Status: rm
+At timestamp 124.55 we received data: valueA=1 valueB=0
+Status: add
+At timestamp 124.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 124.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 124.7 we received data: valueA=1 valueB=0
+At timestamp 124.75 we received data: valueA=1 valueB=0
+At timestamp 124.8 we received data: valueA=1 valueB=0
+User: f
+At timestamp 124.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 124.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 124.95 we received data: valueA=1 valueB=0
+At timestamp 125.0 we received data: valueA=1 valueB=0
+At timestamp 125.05 we received data: valueA=1 valueB=0
+At timestamp 125.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 125.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 125.2 we received data: valueA=1 valueB=0
+At timestamp 125.25 we received data: valueA=1 valueB=0
+At timestamp 125.3 we received data: valueA=0 valueB=0
+At timestamp 125.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 125.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 125.45 we received data: valueA=0 valueB=0
+Status: add
+At timestamp 125.5 we received data: valueA=1 valueB=0
+User: a
+At timestamp 125.55 we received data: valueA=1 valueB=0
+At timestamp 125.59999999999999 we received data: valueA=0 valueB=0
+At timestamp 125.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 125.7 we received data: valueA=0 valueB=0
+User: c
+At timestamp 125.75 we received data: valueA=0 valueB=0
+At timestamp 125.8 we received data: valueA=0 valueB=0
+At timestamp 125.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 125.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 125.95 we received data: valueA=0 valueB=0
+At timestamp 126.0 we received data: valueA=0 valueB=0
+At timestamp 126.05 we received data: valueA=0 valueB=0
+At timestamp 126.09999999999999 we received data: valueA=0 valueB=0
+At timestamp 126.15000000000001 we received data: valueA=0 valueB=0
+User: f
+At timestamp 126.2 we received data: valueA=0 valueB=0
+At timestamp 126.25 we received data: valueA=0 valueB=0
+At timestamp 126.3 we received data: valueA=0 valueB=0
+At timestamp 126.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 126.40000000000001 we received data: valueA=0 valueB=0
+User: c
+At timestamp 126.45 we received data: valueA=0 valueB=0
+At timestamp 126.5 we received data: valueA=0 valueB=0
+At timestamp 126.55 we received data: valueA=0 valueB=0
+At timestamp 126.59999999999999 we received data: valueA=0 valueB=0
+At timestamp 126.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 126.7 we received data: valueA=0 valueB=0
+At timestamp 126.75 we received data: valueA=0 valueB=0
+At timestamp 126.8 we received data: valueA=0 valueB=0
+At timestamp 126.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 126.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 126.95 we received data: valueA=0 valueB=0
+At timestamp 127.0 we received data: valueA=0 valueB=1
+At timestamp 127.05 we received data: valueA=0 valueB=0
+At timestamp 127.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 127.15000000000001 we received data: valueA=0 valueB=0
+At timestamp 127.2 we received data: valueA=0 valueB=1
+At timestamp 127.25 we received data: valueA=0 valueB=1
+At timestamp 127.3 we received data: valueA=0 valueB=0
+At timestamp 127.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 127.40000000000001 we received data: valueA=0 valueB=1
+User: d
+At timestamp 127.45 we received data: valueA=0 valueB=1
+At timestamp 127.5 we received data: valueA=0 valueB=1
+At timestamp 127.55 we received data: valueA=0 valueB=1
+At timestamp 127.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 127.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 127.7 we received data: valueA=0 valueB=1
+At timestamp 127.75 we received data: valueA=0 valueB=1
+At timestamp 127.8 we received data: valueA=0 valueB=1
+At timestamp 127.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 127.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 127.95 we received data: valueA=0 valueB=1
+User: c
+At timestamp 128.0 we received data: valueA=0 valueB=1
+At timestamp 128.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.09999999999999 we received data: valueA=0 valueB=1
+User: b
+At timestamp 128.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 128.25 we received data: valueA=0 valueB=1
+At timestamp 128.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 128.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 128.5 we received data: valueA=0 valueB=1
+At timestamp 128.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 128.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.69999999999999 we received data: valueA=0 valueB=1
+At timestamp 128.75 we received data: valueA=0 valueB=1
+At timestamp 128.80000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 128.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 128.94999999999999 we received data: valueA=0 valueB=1
+At timestamp 129.0 we received data: valueA=0 valueB=1
+At timestamp 129.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 129.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 129.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 129.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 129.25 we received data: valueA=0 valueB=1
+At timestamp 129.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 129.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 129.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 129.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 129.5 we received data: valueA=1 valueB=1
+At timestamp 129.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 129.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 129.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 129.69999999999999 we received data: valueA=1 valueB=1
+At timestamp 129.75 we received data: valueA=1 valueB=1
+At timestamp 129.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 129.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 129.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 129.94999999999999 we received data: valueA=1 valueB=1
+At timestamp 130.0 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 130.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 130.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 130.15000000000001 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 130.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 130.25 we received data: valueA=1 valueB=1
+At timestamp 130.30000000000001 we received data: valueA=1 valueB=1
+At timestamp 130.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 130.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 130.44999999999999 we received data: valueA=1 valueB=1
+At timestamp 130.5 we received data: valueA=1 valueB=1
+At timestamp 130.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 130.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 130.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 130.69999999999999 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 130.75 we received data: valueA=1 valueB=1
+At timestamp 130.80000000000001 we received data: valueA=1 valueB=1
+User: a
+At timestamp 130.84999999999999 we received data: valueA=1 valueB=1
+Status: add
+At timestamp 130.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 130.94999999999999 we received data: valueA=1 valueB=1
+User: e
+At timestamp 131.0 we received data: valueA=1 valueB=1
+At timestamp 131.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.09999999999999 we received data: valueA=1 valueB=1
+User: d
+At timestamp 131.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 131.25 we received data: valueA=1 valueB=1
+At timestamp 131.30000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 131.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.44999999999999 we received data: valueA=1 valueB=1
+User: d
+At timestamp 131.5 we received data: valueA=1 valueB=1
+At timestamp 131.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 131.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.69999999999999 we received data: valueA=1 valueB=1
+User: d
+At timestamp 131.75 we received data: valueA=1 valueB=1
+At timestamp 131.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 131.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 131.94999999999999 we received data: valueA=1 valueB=1
+At timestamp 132.0 we received data: valueA=1 valueB=1
+At timestamp 132.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 132.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 132.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 132.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 132.25 we received data: valueA=1 valueB=1
+At timestamp 132.30000000000001 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 132.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 132.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 132.44999999999999 we received data: valueA=1 valueB=1
+At timestamp 132.5 we received data: valueA=1 valueB=1
+User: b
+At timestamp 132.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 132.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 132.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 132.69999999999999 we received data: valueA=1 valueB=1
+At timestamp 132.75 we received data: valueA=1 valueB=1
+At timestamp 132.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 132.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 132.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 132.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 133.0 we received data: valueA=1 valueB=0
+At timestamp 133.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 133.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 133.15000000000001 we received data: valueA=1 valueB=1
+User: a
+At timestamp 133.19999999999999 we received data: valueA=1 valueB=0
+At timestamp 133.25 we received data: valueA=1 valueB=0
+At timestamp 133.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 133.34999999999999 we received data: valueA=1 valueB=0
+User: a
+At timestamp 133.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 133.44999999999999 we received data: valueA=1 valueB=0
+At timestamp 133.5 we received data: valueA=1 valueB=0
+At timestamp 133.55000000000001 we received data: valueA=1 valueB=0
+At timestamp 133.59999999999999 we received data: valueA=1 valueB=0
+User: f
+At timestamp 133.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 133.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 133.75 we received data: valueA=1 valueB=0
+At timestamp 133.80000000000001 we received data: valueA=1 valueB=0
+At timestamp 133.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 133.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 133.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.0 we received data: valueA=1 valueB=0
+At timestamp 134.05000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.19999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.25 we received data: valueA=1 valueB=0
+At timestamp 134.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.44999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.5 we received data: valueA=1 valueB=0
+At timestamp 134.55000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.75 we received data: valueA=1 valueB=0
+At timestamp 134.80000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 134.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 134.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 135.0 we received data: valueA=1 valueB=0
+At timestamp 135.05000000000001 we received data: valueA=1 valueB=0
+At timestamp 135.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 135.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 135.19999999999999 we received data: valueA=0 valueB=0
+At timestamp 135.25 we received data: valueA=1 valueB=0
+At timestamp 135.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 135.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 135.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 135.44999999999999 we received data: valueA=0 valueB=0
+At timestamp 135.5 we received data: valueA=0 valueB=0
+At timestamp 135.55000000000001 we received data: valueA=0 valueB=0
+At timestamp 135.59999999999999 we received data: valueA=0 valueB=0
+At timestamp 135.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 135.69999999999999 we received data: valueA=0 valueB=0
+At timestamp 135.75 we received data: valueA=0 valueB=0
+At timestamp 135.80000000000001 we received data: valueA=0 valueB=0
+At timestamp 135.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 135.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 135.94999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.0 we received data: valueA=0 valueB=0
+At timestamp 136.05000000000001 we received data: valueA=0 valueB=0
+At timestamp 136.09999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.15000000000001 we received data: valueA=0 valueB=0
+User: b
+At timestamp 136.19999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.25 we received data: valueA=0 valueB=0
+At timestamp 136.30000000000001 we received data: valueA=0 valueB=0
+At timestamp 136.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.40000000000001 we received data: valueA=0 valueB=0
+At timestamp 136.44999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.5 we received data: valueA=0 valueB=0
+At timestamp 136.55000000000001 we received data: valueA=0 valueB=0
+At timestamp 136.59999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 136.69999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.75 we received data: valueA=0 valueB=0
+System restart
+At timestamp 136.80000000000001 we received data: valueA=0 valueB=0
+At timestamp 136.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 136.90000000000001 we received data: valueA=0 valueB=0
+User: a
+At timestamp 136.94999999999999 we received data: valueA=0 valueB=0
+At timestamp 137.0 we received data: valueA=0 valueB=1
+At timestamp 137.05000000000001 we received data: valueA=0 valueB=0
+User: d
+At timestamp 137.09999999999999 we received data: valueA=0 valueB=0
+User: c
+At timestamp 137.15000000000001 we received data: valueA=0 valueB=0
+At timestamp 137.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 137.25 we received data: valueA=0 valueB=1
+At timestamp 137.30000000000001 we received data: valueA=0 valueB=0
+At timestamp 137.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 137.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 137.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 137.5 we received data: valueA=0 valueB=1
+At timestamp 137.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 137.59999999999999 we received data: valueA=0 valueB=1
+User: c
+At timestamp 137.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 137.69999999999999 we received data: valueA=0 valueB=1
+At timestamp 137.75 we received data: valueA=0 valueB=1
+At timestamp 137.80000000000001 we received data: valueA=0 valueB=1
+At timestamp 137.84999999999999 we received data: valueA=0 valueB=1
+System restart
+At timestamp 137.90000000000001 we received data: valueA=0 valueB=1
+VarX=99
+At timestamp 137.94999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.0 we received data: valueA=0 valueB=1
+User: e
+At timestamp 138.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.25 we received data: valueA=0 valueB=1
+User: c
+At timestamp 138.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.5 we received data: valueA=0 valueB=1
+At timestamp 138.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.69999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.75 we received data: valueA=0 valueB=1
+At timestamp 138.80000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 138.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 138.94999999999999 we received data: valueA=0 valueB=1
+At timestamp 139.0 we received data: valueA=0 valueB=1
+User: e
+At timestamp 139.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 139.09999999999999 we received data: valueA=0 valueB=1
+User: b
+At timestamp 139.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 139.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 139.25 we received data: valueA=1 valueB=1
+At timestamp 139.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 139.34999999999999 we received data: valueA=0 valueB=1
+User: c
+At timestamp 139.40000000000001 we received data: valueA=1 valueB=1
+User: c
+At timestamp 139.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 139.5 we received data: valueA=0 valueB=1
+At timestamp 139.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 139.59999999999999 we received data: valueA=0 valueB=1
+Status: mod
+At timestamp 139.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 139.69999999999999 we received data: valueA=0 valueB=1
+User: f
+At timestamp 139.75 we received data: valueA=1 valueB=1
+At timestamp 139.80000000000001 we received data: valueA=0 valueB=1
+At timestamp 139.84999999999999 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 139.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 139.94999999999999 we received data: valueA=1 valueB=1
+At timestamp 140.0 we received data: valueA=1 valueB=1
+Status: add
+At timestamp 140.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 140.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 140.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 140.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 140.25 we received data: valueA=1 valueB=1
+At timestamp 140.30000000000001 we received data: valueA=1 valueB=1
+At timestamp 140.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 140.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 140.44999999999999 we received data: valueA=1 valueB=1
+User: a
+At timestamp 140.5 we received data: valueA=1 valueB=1
+At timestamp 140.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 140.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 140.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 140.69999999999999 we received data: valueA=1 valueB=1
+At timestamp 140.75 we received data: valueA=1 valueB=1
+At timestamp 140.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 140.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 140.90000000000001 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 140.94999999999999 we received data: valueA=1 valueB=1
+At timestamp 141.0 we received data: valueA=1 valueB=1
+At timestamp 141.05000000000001 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 141.09999999999999 we received data: valueA=1 valueB=1
+User: d
+At timestamp 141.15000000000001 we received data: valueA=1 valueB=1
+User: e
+At timestamp 141.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 141.25 we received data: valueA=1 valueB=1
+At timestamp 141.30000000000001 we received data: valueA=1 valueB=1
+At timestamp 141.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 141.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 141.44999999999999 we received data: valueA=1 valueB=1
+At timestamp 141.5 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 141.55000000000001 we received data: valueA=1 valueB=1
+User: e
+At timestamp 141.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 141.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 141.69999999999999 we received data: valueA=1 valueB=1
+At timestamp 141.75 we received data: valueA=1 valueB=1
+At timestamp 141.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 141.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 141.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 141.94999999999999 we received data: valueA=1 valueB=1
+At timestamp 142.0 we received data: valueA=1 valueB=1
+At timestamp 142.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 142.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 142.15000000000001 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 142.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 142.25 we received data: valueA=1 valueB=1
+At timestamp 142.30000000000001 we received data: valueA=1 valueB=1
+At timestamp 142.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 142.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 142.44999999999999 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 142.5 we received data: valueA=1 valueB=1
+At timestamp 142.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 142.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 142.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 142.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 142.75 we received data: valueA=1 valueB=0
+At timestamp 142.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 142.84999999999999 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 142.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 142.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 143.0 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 143.05000000000001 we received data: valueA=1 valueB=0
+At timestamp 143.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 143.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 143.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 143.25 we received data: valueA=1 valueB=1
+At timestamp 143.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 143.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 143.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 143.44999999999999 we received data: valueA=1 valueB=0
+Status: mod
+At timestamp 143.5 we received data: valueA=1 valueB=0
+At timestamp 143.55000000000001 we received data: valueA=1 valueB=0
+At timestamp 143.59999999999999 we received data: valueA=1 valueB=0
+VarX=99
+At timestamp 143.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 143.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 143.75 we received data: valueA=1 valueB=0
+Status: add
+At timestamp 143.80000000000001 we received data: valueA=1 valueB=0
+User: e
+At timestamp 143.84999999999999 we received data: valueA=1 valueB=0
+Status: mod
+At timestamp 143.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 143.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.0 we received data: valueA=1 valueB=0
+At timestamp 144.05000000000001 we received data: valueA=1 valueB=0
+At timestamp 144.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 144.19999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.25 we received data: valueA=1 valueB=0
+At timestamp 144.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 144.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 144.44999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.5 we received data: valueA=1 valueB=0
+At timestamp 144.55000000000001 we received data: valueA=1 valueB=0
+User: a
+At timestamp 144.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 144.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.75 we received data: valueA=1 valueB=0
+At timestamp 144.80000000000001 we received data: valueA=1 valueB=0
+User: a
+At timestamp 144.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 144.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 144.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 145.0 we received data: valueA=1 valueB=0
+At timestamp 145.05000000000001 we received data: valueA=1 valueB=0
+At timestamp 145.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 145.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 145.19999999999999 we received data: valueA=1 valueB=0
+At timestamp 145.25 we received data: valueA=1 valueB=0
+At timestamp 145.30000000000001 we received data: valueA=0 valueB=0
+User: d
+At timestamp 145.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 145.40000000000001 we received data: valueA=1 valueB=0
+User: b
+At timestamp 145.44999999999999 we received data: valueA=1 valueB=0
+At timestamp 145.5 we received data: valueA=1 valueB=0
+At timestamp 145.55000000000001 we received data: valueA=0 valueB=0
+Status: mod
+At timestamp 145.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 145.65000000000001 we received data: valueA=0 valueB=0
+Status: rm
+At timestamp 145.69999999999999 we received data: valueA=0 valueB=0
+At timestamp 145.75 we received data: valueA=0 valueB=0
+At timestamp 145.80000000000001 we received data: valueA=0 valueB=0
+At timestamp 145.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 145.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 145.94999999999999 we received data: valueA=0 valueB=0
+At timestamp 146.0 we received data: valueA=0 valueB=0
+At timestamp 146.05000000000001 we received data: valueA=0 valueB=0
+At timestamp 146.09999999999999 we received data: valueA=0 valueB=0
+At timestamp 146.15000000000001 we received data: valueA=0 valueB=0
+Status: mod
+At timestamp 146.19999999999999 we received data: valueA=0 valueB=0
+User: e
+At timestamp 146.25 we received data: valueA=0 valueB=0
+At timestamp 146.30000000000001 we received data: valueA=0 valueB=0
+At timestamp 146.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 146.40000000000001 we received data: valueA=0 valueB=0
+At timestamp 146.44999999999999 we received data: valueA=0 valueB=0
+At timestamp 146.5 we received data: valueA=0 valueB=0
+User: a
+At timestamp 146.55000000000001 we received data: valueA=0 valueB=0
+At timestamp 146.59999999999999 we received data: valueA=0 valueB=0
+VarX=99
+At timestamp 146.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 146.69999999999999 we received data: valueA=0 valueB=0
+VarX=99
+At timestamp 146.75 we received data: valueA=0 valueB=0
+At timestamp 146.80000000000001 we received data: valueA=0 valueB=1
+At timestamp 146.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 146.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 146.94999999999999 we received data: valueA=0 valueB=0
+At timestamp 147.0 we received data: valueA=0 valueB=1
+At timestamp 147.05000000000001 we received data: valueA=0 valueB=0
+At timestamp 147.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 147.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 147.19999999999999 we received data: valueA=0 valueB=0
+At timestamp 147.25 we received data: valueA=0 valueB=0
+At timestamp 147.30000000000001 we received data: valueA=0 valueB=0
+At timestamp 147.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 147.40000000000001 we received data: valueA=0 valueB=1
+User: e
+At timestamp 147.44999999999999 we received data: valueA=0 valueB=1
+Status: rm
+At timestamp 147.5 we received data: valueA=0 valueB=1
+Status: rm
+At timestamp 147.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 147.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 147.65000000000001 we received data: valueA=0 valueB=1
+At timestamp 147.69999999999999 we received data: valueA=0 valueB=1
+At timestamp 147.75 we received data: valueA=0 valueB=1
+At timestamp 147.80000000000001 we received data: valueA=0 valueB=1
+User: a
+At timestamp 147.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 147.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 147.94999999999999 we received data: valueA=0 valueB=1
+User: d
+At timestamp 148.0 we received data: valueA=0 valueB=1
+At timestamp 148.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 148.09999999999999 we received data: valueA=0 valueB=1
+User: b
+At timestamp 148.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 148.19999999999999 we received data: valueA=0 valueB=1
+User: e
+At timestamp 148.25 we received data: valueA=0 valueB=1
+At timestamp 148.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 148.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 148.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 148.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 148.5 we received data: valueA=0 valueB=1
+At timestamp 148.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 148.59999999999999 we received data: valueA=0 valueB=1
+Status: add
+At timestamp 148.65000000000001 we received data: valueA=0 valueB=1
+User: a
+At timestamp 148.69999999999999 we received data: valueA=0 valueB=1
+At timestamp 148.75 we received data: valueA=0 valueB=1
+At timestamp 148.80000000000001 we received data: valueA=0 valueB=1
+User: e
+At timestamp 148.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 148.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 148.94999999999999 we received data: valueA=0 valueB=1
+At timestamp 149.0 we received data: valueA=0 valueB=1
+At timestamp 149.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 149.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 149.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 149.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 149.25 we received data: valueA=0 valueB=1
+At timestamp 149.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 149.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 149.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 149.44999999999999 we received data: valueA=1 valueB=1
+At timestamp 149.5 we received data: valueA=1 valueB=1
+At timestamp 149.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 149.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 149.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 149.69999999999999 we received data: valueA=1 valueB=1
+At timestamp 149.75 we received data: valueA=1 valueB=1
+System restart
+At timestamp 149.80000000000001 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 149.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 149.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 149.94999999999999 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 150.0 we received data: valueA=1 valueB=1
+At timestamp 150.05000000000001 we received data: valueA=1 valueB=1
+Status: add
+At timestamp 150.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 150.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 150.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 150.25 we received data: valueA=1 valueB=1
+User: d
+At timestamp 150.30000000000001 we received data: valueA=1 valueB=1
+At timestamp 150.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 150.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 150.44999999999999 we received data: valueA=1 valueB=1
+At timestamp 150.5 we received data: valueA=1 valueB=1
+At timestamp 150.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 150.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 150.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 150.69999999999999 we received data: valueA=1 valueB=1
+At timestamp 150.75 we received data: valueA=1 valueB=1
+At timestamp 150.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 150.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 150.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 150.94999999999999 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 151.0 we received data: valueA=1 valueB=1
+At timestamp 151.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 151.09999999999999 we received data: valueA=1 valueB=1
+At timestamp 151.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 151.19999999999999 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 151.25 we received data: valueA=1 valueB=1
+At timestamp 151.30000000000001 we received data: valueA=1 valueB=1
+Status: mod
+At timestamp 151.34999999999999 we received data: valueA=1 valueB=1
+At timestamp 151.40000000000001 we received data: valueA=1 valueB=1
+At timestamp 151.44999999999999 we received data: valueA=1 valueB=1
+At timestamp 151.5 we received data: valueA=1 valueB=1
+At timestamp 151.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 151.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 151.65000000000001 we received data: valueA=1 valueB=1
+At timestamp 151.69999999999999 we received data: valueA=1 valueB=1
+User: d
+At timestamp 151.75 we received data: valueA=1 valueB=1
+At timestamp 151.80000000000001 we received data: valueA=1 valueB=1
+User: d
+At timestamp 151.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 151.90000000000001 we received data: valueA=1 valueB=1
+At timestamp 151.94999999999999 we received data: valueA=1 valueB=1
+At timestamp 152.0 we received data: valueA=1 valueB=1
+User: e
+At timestamp 152.05000000000001 we received data: valueA=1 valueB=1
+At timestamp 152.09999999999999 we received data: valueA=1 valueB=1
+User: f
+At timestamp 152.15000000000001 we received data: valueA=1 valueB=1
+At timestamp 152.19999999999999 we received data: valueA=1 valueB=1
+At timestamp 152.25 we received data: valueA=1 valueB=1
+At timestamp 152.30000000000001 we received data: valueA=1 valueB=1
+At timestamp 152.34999999999999 we received data: valueA=1 valueB=1
+VarX=99
+At timestamp 152.40000000000001 we received data: valueA=1 valueB=1
+User: a
+At timestamp 152.44999999999999 we received data: valueA=1 valueB=1
+User: d
+At timestamp 152.5 we received data: valueA=1 valueB=1
+At timestamp 152.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 152.59999999999999 we received data: valueA=1 valueB=0
+At timestamp 152.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 152.69999999999999 we received data: valueA=1 valueB=1
+At timestamp 152.75 we received data: valueA=1 valueB=0
+At timestamp 152.80000000000001 we received data: valueA=1 valueB=0
+User: a
+At timestamp 152.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 152.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 152.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 153.0 we received data: valueA=1 valueB=0
+At timestamp 153.05000000000001 we received data: valueA=1 valueB=1
+User: b
+At timestamp 153.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 153.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 153.19999999999999 we received data: valueA=1 valueB=0
+At timestamp 153.25 we received data: valueA=1 valueB=0
+Status: add
+At timestamp 153.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 153.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 153.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 153.44999999999999 we received data: valueA=1 valueB=0
+User: d
+At timestamp 153.5 we received data: valueA=1 valueB=0
+At timestamp 153.55000000000001 we received data: valueA=1 valueB=0
+VarX=99
+At timestamp 153.59999999999999 we received data: valueA=1 valueB=0
+User: f
+At timestamp 153.65000000000001 we received data: valueA=1 valueB=0
+System restart
+At timestamp 153.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 153.75 we received data: valueA=1 valueB=0
+At timestamp 153.80000000000001 we received data: valueA=1 valueB=0
+At timestamp 153.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 153.90000000000001 we received data: valueA=1 valueB=0
+At timestamp 153.94999999999999 we received data: valueA=1 valueB=0
+At timestamp 154.0 we received data: valueA=1 valueB=0
+At timestamp 154.05000000000001 we received data: valueA=1 valueB=0
+At timestamp 154.09999999999999 we received data: valueA=1 valueB=0
+At timestamp 154.15000000000001 we received data: valueA=1 valueB=0
+User: e
+At timestamp 154.19999999999999 we received data: valueA=1 valueB=0
+At timestamp 154.25 we received data: valueA=1 valueB=0
+At timestamp 154.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 154.34999999999999 we received data: valueA=1 valueB=0
+At timestamp 154.40000000000001 we received data: valueA=1 valueB=0
+User: b
+At timestamp 154.44999999999999 we received data: valueA=1 valueB=0
+At timestamp 154.5 we received data: valueA=1 valueB=0
+At timestamp 154.55000000000001 we received data: valueA=1 valueB=0
+At timestamp 154.59999999999999 we received data: valueA=1 valueB=0
+User: a
+At timestamp 154.65000000000001 we received data: valueA=1 valueB=0
+At timestamp 154.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 154.75 we received data: valueA=1 valueB=0
+System restart
+At timestamp 154.80000000000001 we received data: valueA=1 valueB=0
+User: f
+At timestamp 154.84999999999999 we received data: valueA=1 valueB=0
+At timestamp 154.90000000000001 we received data: valueA=1 valueB=0
+Status: add
+At timestamp 154.94999999999999 we received data: valueA=1 valueB=0
+Status: rm
+At timestamp 155.0 we received data: valueA=1 valueB=0
+At timestamp 155.05000000000001 we received data: valueA=1 valueB=0
+User: d
+At timestamp 155.09999999999999 we received data: valueA=0 valueB=0
+User: f
+At timestamp 155.15000000000001 we received data: valueA=1 valueB=0
+At timestamp 155.19999999999999 we received data: valueA=1 valueB=0
+At timestamp 155.25 we received data: valueA=1 valueB=0
+At timestamp 155.30000000000001 we received data: valueA=1 valueB=0
+At timestamp 155.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 155.40000000000001 we received data: valueA=1 valueB=0
+At timestamp 155.44999999999999 we received data: valueA=1 valueB=0
+Status: rm
+At timestamp 155.5 we received data: valueA=0 valueB=0
+At timestamp 155.55000000000001 we received data: valueA=0 valueB=0
+At timestamp 155.59999999999999 we received data: valueA=1 valueB=0
+VarX=99
+At timestamp 155.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 155.69999999999999 we received data: valueA=1 valueB=0
+At timestamp 155.75 we received data: valueA=0 valueB=0
+Status: rm
+At timestamp 155.80000000000001 we received data: valueA=0 valueB=0
+At timestamp 155.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 155.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 155.94999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.0 we received data: valueA=0 valueB=0
+At timestamp 156.05000000000001 we received data: valueA=0 valueB=0
+At timestamp 156.09999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.15000000000001 we received data: valueA=0 valueB=0
+At timestamp 156.19999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.25 we received data: valueA=0 valueB=0
+User: a
+At timestamp 156.30000000000001 we received data: valueA=0 valueB=0
+Status: mod
+At timestamp 156.34999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.40000000000001 we received data: valueA=0 valueB=0
+At timestamp 156.44999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.5 we received data: valueA=0 valueB=0
+At timestamp 156.55000000000001 we received data: valueA=0 valueB=0
+At timestamp 156.59999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.65000000000001 we received data: valueA=0 valueB=0
+At timestamp 156.69999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.75 we received data: valueA=0 valueB=0
+At timestamp 156.80000000000001 we received data: valueA=0 valueB=0
+At timestamp 156.84999999999999 we received data: valueA=0 valueB=0
+At timestamp 156.90000000000001 we received data: valueA=0 valueB=0
+At timestamp 156.94999999999999 we received data: valueA=0 valueB=0
+At timestamp 157.0 we received data: valueA=0 valueB=0
+At timestamp 157.05000000000001 we received data: valueA=0 valueB=0
+At timestamp 157.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 157.15000000000001 we received data: valueA=0 valueB=0
+At timestamp 157.19999999999999 we received data: valueA=0 valueB=1
+Status: mod
+At timestamp 157.25 we received data: valueA=0 valueB=1
+At timestamp 157.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 157.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 157.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 157.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 157.5 we received data: valueA=0 valueB=1
+At timestamp 157.55000000000001 we received data: valueA=0 valueB=1
+VarX=99
+At timestamp 157.59999999999999 we received data: valueA=0 valueB=1
+User: b
+At timestamp 157.65000000000001 we received data: valueA=0 valueB=1
+User: a
+At timestamp 157.69999999999999 we received data: valueA=0 valueB=1
+At timestamp 157.75 we received data: valueA=0 valueB=1
+At timestamp 157.80000000000001 we received data: valueA=0 valueB=1
+At timestamp 157.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 157.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 157.94999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.0 we received data: valueA=0 valueB=1
+At timestamp 158.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 158.09999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 158.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.25 we received data: valueA=0 valueB=1
+At timestamp 158.30000000000001 we received data: valueA=0 valueB=1
+At timestamp 158.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 158.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.5 we received data: valueA=0 valueB=1
+At timestamp 158.55000000000001 we received data: valueA=0 valueB=1
+At timestamp 158.59999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.65000000000001 we received data: valueA=0 valueB=1
+User: f
+At timestamp 158.69999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.75 we received data: valueA=0 valueB=1
+At timestamp 158.80000000000001 we received data: valueA=0 valueB=1
+At timestamp 158.84999999999999 we received data: valueA=0 valueB=1
+At timestamp 158.90000000000001 we received data: valueA=0 valueB=1
+At timestamp 158.94999999999999 we received data: valueA=0 valueB=1
+At timestamp 159.0 we received data: valueA=0 valueB=1
+At timestamp 159.05000000000001 we received data: valueA=0 valueB=1
+At timestamp 159.09999999999999 we received data: valueA=0 valueB=1
+User: f
+At timestamp 159.15000000000001 we received data: valueA=0 valueB=1
+At timestamp 159.19999999999999 we received data: valueA=0 valueB=1
+At timestamp 159.25 we received data: valueA=0 valueB=1
+At timestamp 159.30000000000001 we received data: valueA=1 valueB=1
+User: e
+At timestamp 159.34999999999999 we received data: valueA=0 valueB=1
+At timestamp 159.40000000000001 we received data: valueA=0 valueB=1
+At timestamp 159.44999999999999 we received data: valueA=0 valueB=1
+At timestamp 159.5 we received data: valueA=1 valueB=1
+Status: rm
+At timestamp 159.55000000000001 we received data: valueA=1 valueB=1
+At timestamp 159.59999999999999 we received data: valueA=1 valueB=1
+At timestamp 159.65000000000001 we received data: valueA=0 valueB=1
+User: d
+At timestamp 159.69999999999999 we received data: valueA=0 valueB=1
+System restart
+At timestamp 159.75 we received data: valueA=1 valueB=1
+User: a
+At timestamp 159.80000000000001 we received data: valueA=1 valueB=1
+At timestamp 159.84999999999999 we received data: valueA=1 valueB=1
+At timestamp 159.90000000000001 we received data: valueA=1 valueB=1
+User: b
+At timestamp 159.94999999999999 we received data: valueA=0 valueB=1
