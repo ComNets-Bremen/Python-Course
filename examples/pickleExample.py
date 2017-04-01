@@ -20,8 +20,9 @@ complexStructure = {
 with open("dataExport.pickle", "wb") as f:
     pickle.dump(complexStructure, f)
 
+
 # In another script...
-data = None
+data = None # Initialize variable here to make it accessible outside the "with" block (scope)
 with open("dataExport.pickle", "rb") as f:
     data = pickle.load(f)
 
