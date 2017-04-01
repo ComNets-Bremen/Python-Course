@@ -17,8 +17,9 @@ How to start?
 -------------
 
 Go through the example files given in the next section and try to understand
-them. After going through all of these files, you should be able to write a
-Python script for plotting data with the following capabilities
+them. The complexity is increasing with each step. After going through all of
+these files, you should be able to write a Python script for plotting data with
+the following capabilities:
 
 - A command line interface where the input filename and some other options
   like title can be defined
@@ -26,6 +27,17 @@ Python script for plotting data with the following capabilities
   is done
 - The results should be exported so they can be used for further documentation
   (i.e., in a report)
+
+Things to implement
+-------------------
+
+Some ideas what you could implement for further understanding of the language:
+
+* Print a triangle
+* Print prime numbers
+* Calculate some statistics from user-given numbers
+* Create a simple phone book
+* ...
 
 
 Commented example files
