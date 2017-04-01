@@ -1,5 +1,5 @@
-Python-Class repository
-=======================
+Python-Course repository
+========================
 
 In this repository, we offer the material for a Python programming class. The
 idea is to offer an example-driven course. The interested student should go
