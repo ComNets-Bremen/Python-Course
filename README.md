@@ -26,18 +26,18 @@ Links
 
 ### Editors
 
-* Notepad++ https://notepad-plus-plus.org
-* Programmers Notepad http://www.pnotepad.org/
-* Eclipse https://eclipse.org/
-* http://www.scintilla.org/SciTE.html
+* Notepad++ (Windows): https://notepad-plus-plus.org
+* Programmers Notepad (Windows): http://www.pnotepad.org/
+* Eclipse (all): https://eclipse.org/
+* Scite (all): http://www.scintilla.org/SciTE.html
 * ...
 
 
 ### Tutorials
 
-* Code Academy (Online) https://www.codecademy.com
-* Think Python (PDF) http://www.greenteapress.com/thinkpython/thinkpython.pdf
-* Dive into Python (Online, PDF) http://www.diveintopython.net/
+* Code Academy (Online): https://www.codecademy.com
+* Think Python (PDF): http://www.greenteapress.com/thinkpython/thinkpython.pdf
+* Dive into Python (Online, PDF): http://www.diveintopython.net/
 * wikibooks: https://en.wikibooks.org/wiki/Subject:Python_programming_language
 * Official Python Docs: https://docs.python.org/2/
 * Official Python Tutorial: https://docs.python.org/2/tutorial/index.html
@@ -45,13 +45,17 @@ Links
 ### Online Interpreters
 
 * http://www.pythontutor.com/
+* https://wandbox.org/
+* https://ideone.com
+* http://codepad.org
 
 
 Not covered in this course (but maybe nice to know)
 ---------------------------------------------------
 
-* git / github
-* Doxygen
+* How to write own modules
+* Version Control Systems (VCS) like git (github), SVN, Mercurial, ...
+* Doxygen Style for proper commenting
 * ...
 
 License
