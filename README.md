@@ -1,7 +1,10 @@
 Python-Class repository
 =======================
 
-In this repository, we offer the material for a Python programming class
+In this repository, we offer the material for a Python programming class. The
+idea is to offer an example-driven course. The interested student should go
+through the examples given in the [examples](examples) directory of this
+repository.
 
 Authors
 -------
