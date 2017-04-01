@@ -58,6 +58,11 @@ Not covered in this course (but maybe nice to know)
 * Doxygen Style for proper commenting
 * ...
 
+Contribute
+----------
+
+Whoever is interested in contributing: Feel free to fork and send pull requests
+
 License
 -------
 
