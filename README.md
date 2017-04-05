@@ -42,6 +42,7 @@ Links
 * Think Python (PDF): http://www.greenteapress.com/thinkpython/thinkpython.pdf
 * Dive into Python (Online, PDF): http://www.diveintopython.net/
 * wikibooks: https://en.wikibooks.org/wiki/Subject:Python_programming_language
+* Easy step-by-step tutorial: https://likegeeks.com/python-programming-basics/
 * Official Python Docs: https://docs.python.org/2/
 * Official Python Tutorial: https://docs.python.org/2/tutorial/index.html
 
