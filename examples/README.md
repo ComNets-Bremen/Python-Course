@@ -52,6 +52,7 @@ Commented example files
 1. [loopsExample.py](loopsExample.py)
 1. [functionExample.py](functionExample.py)
 1. [datetimeExample.py](datetimeExample.py)
+1. [randomExample.py](randomExample.py)
 1. [numpyExample.py](numpyExample.py)
 1. [classExample.py](classExample.py), [myClassExample.py](myClassExample.py)
 1. [csvExample.py](csvExample.py)
