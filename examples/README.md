@@ -48,6 +48,11 @@ Some ideas what you could implement for further understanding of the language:
 Commented example files
 -----------------------
 
+The examples are sorted in an increasing order, i.e., they are getting more
+complex. If you are new to Python, you should start at the beginning and go
+through all examples step by step. If you are a more experienced programmer,
+you can use these examples to lookup how to use certain functions.
+
 1. [helloworldExample.py](helloworldExample.py)
 1. [numberExample.py](numberExample.py)
 1. [conditionsExample.py](conditionsExample.py)
@@ -66,4 +71,36 @@ Commented example files
 1. [pickleExample.py](pickleExample.py)
 1. [jsonExample.py](jsonExample.py)
 1. [regularExpressionExample.py](regularExpressionExample.py)
+1. [errorHandlingExample.py](errorHandlingExample.py)
 
+
+FAQ
+===
+
+This section contains the frequently asked questions
+
+Package cannot be found
+-----------------------
+
+Depending on your Python installation, you might get an error message
+complaining that a package is missing like for example the numpy package. You
+can install most packages using the pip tool.
+
+* On Unix / Linux / MacOS, you can usually use `pip install <package name>` to
+  install packages
+* On Windows, you will find the corresponding command in the
+  `C:\Python2x\Scripts` directory. Open a shell, cd into that directory and
+  execute the command as mentioned above
+
+For this tutorial, the following packages are required:
+
+* `pip install numpy`
+* `pip install python-dateutil`
+
+I got an *IndentationError*
+---------------------------
+
+Maybe you are mixing space an tabs. According to the documentation
+(https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces), you should stick to
+spaces. It is also a good idea to setup you text editor to highlight tabs and
+replace tabs by spaces (preferable 4 spaces).
