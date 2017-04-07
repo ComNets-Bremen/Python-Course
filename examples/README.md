@@ -59,5 +59,6 @@ Commented example files
 1. [argumentParserExample.py](argumentParserExample.py)
 1. [matplotlibExample.py](matplotlibExample.py)
 1. [pickleExample.py](pickleExample.py)
+1. [jsonExample.py](jsonExample.py)
 1. [regularExpressionExample.py](regularExpressionExample.py)
 
