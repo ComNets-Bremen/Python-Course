@@ -33,10 +33,15 @@ Things to implement
 
 Some ideas what you could implement for further understanding of the language:
 
-* Print a triangle
+* Hello world example
+* Print a square / triangle
+* Enter name and gender to formulate a greeting
 * Print prime numbers
+* Try out the random number generators
 * Calculate some statistics from user-given numbers
 * Create a simple phone book
+* Plot a sine / cosine using matplotlib
+* Read data from the files directory and plot statistics
 * ...
 
 
