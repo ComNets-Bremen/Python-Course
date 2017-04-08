@@ -118,3 +118,11 @@ most cases, it is easier to convert dates and times to timestamps and only
 convert them back if they are shown to the user.
 
 https://en.wikipedia.org/wiki/Unix_time
+
+Naming your programs
+--------------------
+
+When naming your program, you should ensure that you are not using a reserved
+name (i.e. a module name) as Python will try to import your app instead of the
+system module. So do not use filenames like `matplotlib.py`, `numpy.py`,
+`int.py` etc.
