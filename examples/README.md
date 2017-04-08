@@ -134,8 +134,8 @@ Tuples vs. Lists
 
 Tuples and lists look quite similar but are showing crucial differences.
 Tuples are fixed (immutable) and cannot be changed after the assignment but are
-faster compared to lists. Lists are dynamically assigned (mutable) but are
-slower in processing.
+faster compared to lists. Lists are dynamically assigned (mutable) and thus
+are more flexible  but are slower in processing.
 
 So use tuples if
 * You need a write-protected structure
