@@ -60,7 +60,7 @@ you can use these examples to lookup how to use certain functions.
 1. [textInputExample.py](textInputExample.py)
 1. [datastructuresExample.py](datastructuresExample.py)
 1. [loopsExample.py](loopsExample.py)
-1. [formatConversion.py](formatConversion.py)
+1. [castingExample.py](castingExample.py)
 1. [functionExample.py](functionExample.py)
 1. [datetimeExample.py](datetimeExample.py)
 1. [randomExample.py](randomExample.py)
