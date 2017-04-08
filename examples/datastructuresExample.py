@@ -49,7 +49,10 @@ print "\n\n",5*"#", "Tuples"
 t = (1,2,3,4,5)
 
 # Accessing tuple items
-print t, t[0], t[:-2]
+print t, t[0]
+
+# Using tuples, it is not possible to access the last item as easy as we did it
+# for lists (a[:-2])
 
 # Iterate over a tuple
 for i in t:
