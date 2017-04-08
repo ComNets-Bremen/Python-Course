@@ -4,6 +4,7 @@
 Example using the csv library
 
 https://docs.python.org/2/library/csv.html
+https://docs.python.org/2/library/os.html
 
 Jens Dede, 2017, jd@comnets.uni-bremen.de
 """
@@ -13,6 +14,7 @@ import os
 
 # Read data from csv file
 
+# Join the paths in an OS independent way (/ vs \)
 csvfile = os.path.join("files", "noisy-dataA.csv") # Works for Windows and Linux
 
 with open(csvfile, "rb") as f:        # Open file

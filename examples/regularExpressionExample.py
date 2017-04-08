@@ -4,6 +4,7 @@
 Example using the regular expression library
 
 https://docs.python.org/2/library/re.html
+https://docs.python.org/2/library/os.html
 
 Tools:
     Evaluate regex online: https://regex101.com/
@@ -16,6 +17,7 @@ Jens Dede, 2017, jd@comnets.uni-bremen.de
 import os
 import re
 
+# Join the paths in an OS independent way (/ vs \)
 logfile = os.path.join("files", "logfileA.log") # Works for Windows and Linux
 
 # Just check the timestamp, everything else does not matter

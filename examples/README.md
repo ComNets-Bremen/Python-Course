@@ -106,3 +106,15 @@ Maybe you are mixing space an tabs. According to the documentation
 (https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces), you should stick to
 spaces. It is also a good idea to setup you text editor to highlight tabs and
 replace tabs by spaces (preferable 4 spaces).
+
+Timestamp vs. Datetime
+----------------------
+
+Dates and times can be represented in different formats. The human-readable
+format (2017-04-08 01:00PM or 8.4.17 13:00) and Unix timestamp are the most
+common ones. The timestamp gives the number of seconds since 1970-01-01 and has
+several advantages in performing calculations and storing the values. So in
+most cases, it is easier to convert dates and times to timestamps and only
+convert them back if they are shown to the user.
+
+https://en.wikipedia.org/wiki/Unix_time
