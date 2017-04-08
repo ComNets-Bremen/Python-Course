@@ -97,6 +97,7 @@ For this tutorial, the following packages are required:
 
 * `pip install numpy`
 * `pip install python-dateutil`
+* `pip install matplotlib`
 
 I got an *IndentationError*
 ---------------------------
