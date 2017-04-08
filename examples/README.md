@@ -137,7 +137,7 @@ faster compared to lists. Lists are dynamically assigned (mutable) but are
 slower in processing.
 
 So use tuples if
-* You need a write-protected structure (--> security?)
+* You need a write-protected structure
 * A faster structure
 
 For everything else you should prefer lists
