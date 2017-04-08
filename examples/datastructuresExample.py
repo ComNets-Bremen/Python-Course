@@ -42,6 +42,7 @@ for i in l:
 
 # Tuples
 ###
+# \n creates a new line
 print "\n\n",5*"#", "Tuples"
 
 # Create a tuple
@@ -59,6 +60,7 @@ for i in t:
 
 # Dictionaries (dict) (key-value storage)
 ###
+# \n creates a new line
 print "\n\n",5*"#", "Dictionaries (dict)"
 
 data = {}   # Empty dict

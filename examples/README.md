@@ -126,3 +126,18 @@ When naming your program, you should ensure that you are not using a reserved
 name (i.e. a module name) as Python will try to import your app instead of the
 system module. So do not use filenames like `matplotlib.py`, `numpy.py`,
 `int.py` etc.
+
+
+Tuples vs. Lists
+----------------
+
+Tuples and lists look quite similar but are showing crucial differences.
+Tuples are fixed (immutable) and cannot be changed after the assignment but are
+faster compared to lists. Lists are dynamically assigned (mutable) but are
+slower in processing.
+
+So use tuples if
+* You need a write-protected structure (--> security?)
+* A faster structure
+
+For everything else you should prefer lists
