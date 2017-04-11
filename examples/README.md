@@ -7,26 +7,32 @@ About this directory
 The idea of this course is to be programming-driven. We offer a set of example
 programs using the basic functions of Python. Interested people should go through
 them and try to understand by themself. The links to the corresponding
-documentation is given in the header of each individual example file. The main Python
-documentation is online available under
+documentation is given in the header of each individual example file. The main
+Python documentation is online available under
 [docs.python.org](https://docs.python.org/2.7).
 
-For the example which require data, the corresponding [example data files](files) are given in the [files](files) directory.
+For the example which require data, the corresponding
+[example data files](files) are given in the [files](files) directory.
+
+The order you should go through the examples is given below. After that
+tutorial, you should be able to reuse these examples to create your own
+applications.
 
 How to start?
 -------------
 
 Go through the example files given in the next section and try to understand
-them. The complexity is increasing with each step. After going through all of
-these files, you should be able to write a Python script for plotting data with
-the following capabilities:
+them. If you have problems with one file: The link to the documentation is
+usually given in the header. The complexity is increasing with each step. After
+going through all of these files, you should be able to write a Python script
+for plotting data with the following capabilities:
 
 - A command line interface where the input filename and some other options
-  like title can be defined
+  like the title, axis description etc. can be defined
 - The Data is read and parsed from the given file. Maybe some further analysis
-  is done
-- The results should be exported so they can be used for further documentation
-  (i.e., in a report)
+  is done (min, mean, max values)
+- The results should be exported to a pdf or text file so they can be used for
+  further documentation (i.e., in a report)
 
 Things to implement
 -------------------
@@ -49,9 +55,11 @@ Commented example files
 -----------------------
 
 The examples are sorted in an increasing order, i.e., they are getting more
-complex. If you are new to Python, you should start at the beginning and go
-through all examples step by step. If you are a more experienced programmer,
-you can use these examples to lookup how to use certain functions.
+complex. The files are written in Python 2 **not** in Python 3. Please check
+weather you have installed the correction version. If you are new to Python, you
+should start at the beginning and go through all examples step by step. If you
+are a more experienced programmer, you can use these examples to lookup how to
+use certain functions.
 
 1. [helloworldExample.py](helloworldExample.py)
 1. [numberExample.py](numberExample.py)
@@ -91,7 +99,7 @@ can install most packages using the pip tool.
 * On Unix / Linux / MacOS, you can usually use `pip install <package name>` to
   install packages
 * On Windows, you will find the corresponding command in the
-  `C:\Python2x\Scripts` directory. Open a shell, cd into that directory and
+  `C:\Python2x\Scripts` directory. Open a shell, change into that directory and
   execute the command as mentioned above
 
 For this tutorial, the following packages are required:
@@ -99,6 +107,15 @@ For this tutorial, the following packages are required:
 * `pip install numpy`
 * `pip install python-dateutil`
 * `pip install matplotlib`
+
+For Linux based systems, you can also install the packages using the system
+package manager. On a Debian / Ubuntu system, the following commands will
+install the corresponding packages. You should prefer this way over the pip
+command:
+
+* `sudo apt install python-numpy`
+* `sudo apt install python-dateutil`
+* `sudo apt install python-matplotlib`
 
 I got an *IndentationError*
 ---------------------------
@@ -114,7 +131,7 @@ Timestamp vs. Datetime
 Dates and times can be represented in different formats. The human-readable
 format (2017-04-08 01:00PM or 8.4.17 13:00) and Unix timestamp are the most
 common ones. The timestamp gives the number of seconds since 1970-01-01 and has
-several advantages in performing calculations and storing the values. So in
+several advantages in performing calculations and storing the values. In
 most cases, it is easier to convert dates and times to timestamps and only
 convert them back if they are shown to the user.
 

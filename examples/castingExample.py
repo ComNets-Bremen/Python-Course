@@ -19,7 +19,6 @@ print "Convert string", intString, "to int:", int(intString)+100
 
 print "Convert a number to a string"
 print "Number:", str(123.54) + str(100)
-print "Same with unicode strings:", unicode(987) + unicode(654)
 
 # Note: If the conversion is not possible (for example from float-style string
 # to int), you will raise a ValueError. Please consider catching it as
