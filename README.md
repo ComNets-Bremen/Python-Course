@@ -56,6 +56,7 @@ The Internet is full of programming tutorials. Here, we list a couple of them:
 * Easy step-by-step tutorial: https://likegeeks.com/python-programming-basics/
 * Official Python Docs: https://docs.python.org/2/
 * Official Python Tutorial: https://docs.python.org/2/tutorial/index.html
+* How to write good idiomatic Python: https://github.com/JeffPaine/beautiful_idiomatic_python/blob/master/README.md
 
 ### Online Interpreters
 
