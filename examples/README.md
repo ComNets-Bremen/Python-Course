@@ -9,7 +9,7 @@ programs using the basic functions of Python. Interested people should go throug
 them and try to understand by themself. The links to the corresponding
 documentation is given in the header of each individual example file. The main
 Python documentation is online available under
-[docs.python.org](https://docs.python.org/2.7).
+[docs.python.org](https://docs.python.org/3).
 
 For the example which require data, the corresponding
 [example data files](files) are given in the [files](files) directory.
@@ -55,33 +55,33 @@ Commented example files
 -----------------------
 
 The examples are sorted in an increasing order, i.e., they are getting more
-complex. The files are written in Python 2 **not** in Python 3. Please check
+complex. The files are written in Python 3 **not** in Python 2. Please check
 weather you have installed the correction version. If you are new to Python, you
 should start at the beginning and go through all examples step by step. If you
 are a more experienced programmer, you can use these examples to lookup how to
 use certain functions.
 
-1. [helloworldExample.py](helloworldExample.py)
-1. [numberExample.py](numberExample.py)
-1. [conditionsExample.py](conditionsExample.py)
-1. [stringExample.py](stringExample.py)
-1. [textInputExample.py](textInputExample.py)
-1. [datastructuresExample.py](datastructuresExample.py)
-1. [loopsExample.py](loopsExample.py)
-1. [castingExample.py](castingExample.py)
-1. [enumerateExample.py](enumerateExample.py)
-1. [functionExample.py](functionExample.py)
-1. [datetimeExample.py](datetimeExample.py)
-1. [randomExample.py](randomExample.py)
-1. [numpyExample.py](numpyExample.py)
-1. [classExample.py](classExample.py), [myClassExample.py](myClassExample.py)
-1. [csvExample.py](csvExample.py)
-1. [argumentParserExample.py](argumentParserExample.py)
-1. [matplotlibExample.py](matplotlibExample.py)
-1. [pickleExample.py](pickleExample.py)
-1. [jsonExample.py](jsonExample.py)
-1. [regularExpressionExample.py](regularExpressionExample.py)
-1. [exceptionsExample.py](exceptionsExample.py)
+1. [01_helloworldExample.py](01_helloworldExample.py)
+1. [02_numberExample.py](02_numberExample.py)
+1. [03_conditionsExample.py](03_conditionsExample.py)
+1. [04_stringExample.py](04_stringExample.py)
+1. [05_textInputExample.py](05_textInputExample.py)
+1. [06_datastructuresExample.py](06_datastructuresExample.py)
+1. [07_loopsExample.py](07_loopsExample.py)
+1. [08_castingExample.py](08_castingExample.py)
+1. [09_enumerateExample.py](09_enumerateExample.py)
+1. [10_functionExample.py](10_functionExample.py)
+1. [11_datetimeExample.py](11_datetimeExample.py)
+1. [12_randomExample.py](12_randomExample.py)
+1. [13_numpyExample.py](13_numpyExample.py)
+1. [14_classExample.py](14_classExample.py), [myClassExample.py](myClassExample.py)
+1. [15_csvExample.py](15_csvExample.py)
+1. [16_argumentParserExample.py](16_argumentParserExample.py)
+1. [17_matplotlibExample.py](17_matplotlibExample.py)
+1. [18_pickleExample.py](18_pickleExample.py)
+1. [19_jsonExample.py](19_jsonExample.py)
+1. [20_regularExpressionExample.py](20_regularExpressionExample.py)
+1. [21_exceptionsExample.py](21_exceptionsExample.py)
 
 
 FAQ

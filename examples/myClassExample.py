@@ -1,9 +1,9 @@
 """
 Example Python class
 
-https://docs.python.org/2.7/tutorial/classes.html#a-first-look-at-classes
+https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 class helperClass:
@@ -18,11 +18,11 @@ class helperClass:
 
     def hi(self):
         """ Greeting """
-        print "Hi,", self.name
+        print("Hi,", self.name)
 
     def bye(self):
         """" Bye """
-        print "Bye,", self.name
+        print("Bye,", self.name)
 
     def getName(self):
         """ Returns the name """

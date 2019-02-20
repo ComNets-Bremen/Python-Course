@@ -1,2 +1,4 @@
 output.csv
 file.json
+*.bak
+output.pdf

@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Examples for the usage of pickles in Python
 
-https://docs.python.org/2/library/pickle.html
+https://docs.python.org/3/library/pickle.html
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 import pickle
@@ -26,7 +26,7 @@ data = None # Initialize variable here to make it accessible outside the "with" 
 with open("dataExport.pickle", "rb") as f:
     data = pickle.load(f)
 
-print data
-print data["dataC"]
+print(data)
+print(data["dataC"])
 
 

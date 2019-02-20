@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Examples for Python classes
 
-https://docs.python.org/2.7/tutorial/classes.html#a-first-look-at-classes
+https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 # Import class from myClassExample.py
@@ -18,4 +18,4 @@ myObject = myClassExample.helperClass("My Name")
 myObject.hi()
 myObject.bye()
 
-print "The name is", myObject.getName()
+print("The name is", myObject.getName())

@@ -1,9 +1,9 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Convert between different types
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 # We use quotation marks so the numbers are actually strings: You cannot
@@ -11,14 +11,14 @@ Jens Dede, 2017, jd@comnets.uni-bremen.de
 floatString = "12.3"
 intString   = "45"
 
-print "Convert and add 100 to the number"
+print("Convert and add 100 to the number")
 # with float(<string>) or int(<string>) we convert the string back to a number
-print "Convert string", floatString, "to float:", float(floatString)+100
-print "Convert string", intString, "to float:", float(intString)+100
-print "Convert string", intString, "to int:", int(intString)+100
+print("Convert string", floatString, "to float:", float(floatString)+100)
+print("Convert string", intString, "to float:", float(intString)+100)
+print("Convert string", intString, "to int:", int(intString)+100)
 
-print "Convert a number to a string"
-print "Number:", str(123.54) + str(100)
+print("Convert a number to a string")
+print("Number:", str(123.54) + str(100))
 
 # Note: If the conversion is not possible (for example from float-style string
 # to int), you will raise a ValueError. Please consider catching it as

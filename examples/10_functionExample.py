@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Examples for functions
 
-https://docs.python.org/2.7/tutorial/controlflow.html#defining-functions
+https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 
@@ -16,7 +16,7 @@ def addNumbers(numberA, numberB):
     return numberA + numberB
 
 
-print "1 + 4 =", addNumbers(1,4)
+print("1 + 4 =", addNumbers(1,4))
 
 
 def greeting(name="Nobody"):
@@ -25,5 +25,5 @@ def greeting(name="Nobody"):
     """
     return "Hi " + name + "!"
 
-print "Greeting without argument:", greeting()
-print "Greeting with argument:", greeting("John Doe")
+print("Greeting without argument:", greeting())
+print("Greeting with argument:", greeting("John Doe"))

@@ -1,17 +1,17 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Example using the regular expression library
 
-https://docs.python.org/2/library/re.html
-https://docs.python.org/2/library/os.html
+https://docs.python.org/3/library/re.html
+https://docs.python.org/3/library/os.html
 
 Tools:
     Evaluate regex online: https://regex101.com/
     Another webpage with lots of examples: http://www.regexr.com/
     Visual regex: https://www.debuggex.com/
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 import os
@@ -30,6 +30,6 @@ with open(logfile, "r") as f:        # Open file
     for line in f:                   # Iterate over all lines
         p = checkTerm2.match(line)   # Check if the current lines matches the expression in checkTerm
         if p:                        # If yes: Print it
-            print p.group("timestamp"), p.group("valueA"), p.group("valueB")
+            print(p.group("timestamp"), p.group("valueA"), p.group("valueB"))
         else:
-            print 5*"#", line[:-1]   # Otherwise print the raw line (and ignore the newline at the end)
+            print(5*"#", line[:-1])   # Otherwise print the raw line (and ignore the newline at the end)

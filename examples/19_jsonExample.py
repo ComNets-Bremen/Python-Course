@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Examples for the usage of json in Python
 
-https://docs.python.org/2/library/json.html
+https://docs.python.org/3/library/json.html
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 import json
@@ -17,18 +17,18 @@ complexStructure = {
         }
 
 
-print "Original structure:", complexStructure
+print("Original structure:", complexStructure)
 
-print "json formatted structure:", json.dumps(complexStructure)
+print("json formatted structure:", json.dumps(complexStructure))
 
 # backslash (\): line continues next line
-print "Nicer formatted json:", \
+print("Nicer formatted json:", \
         json.dumps(
             complexStructure,
             sort_keys=True,
             indent=4,
             separators=(',', ': ')
-            )
+            ))
 
 # Write to file
 with open("file.json", "w") as jsonOutput:

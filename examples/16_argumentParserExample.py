@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Example using the argument parser
 
 https://docs.python.org/3/library/argparse.html
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 import argparse
@@ -20,6 +20,6 @@ parser.add_argument('-l', action='store_true', default=False, help="Enable loggi
 
 args = parser.parse_args()
 
-print "Filename", args.filename
-print "Number", args.n
-print "Logging", args.l
+print("Filename", args.filename)
+print("Number", args.n)
+print("Logging", args.l)

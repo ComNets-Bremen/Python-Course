@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Examples using lists, tuples and dictionaries (dict)
 
-https://docs.python.org/2.7/tutorial/datastructures.html
+https://docs.python.org/3/tutorial/datastructures.html
 
-Jens Dede, 2017, jd@comnets.uni-bremen.de
+Jens Dede, 2019, jd@comnets.uni-bremen.de
 """
 
 # Lists
