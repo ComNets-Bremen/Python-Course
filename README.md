@@ -17,19 +17,20 @@ Content
 -------
 
 * `examples`: Contains examples for the Python functions covered during the
-  class
-* `slides`: Contains the slides
+  class.
+* `slides`: Contains the introduction slides for this course.
 
 Links
 -----
 
 ### Download Python
 
-This course focusses on **Python 2**. Please ensure that you install the
+This course focusses on **Python 3**. Please ensure that you install the
 correction version!
 
-* Linux: Use repository (i.e., sudo apt install python)
+* Linux: Preferably use the system repository (i.e., sudo apt install python3)
 * Windows / Mac: https://www.python.org/downloads/
+* For Linux, Windows, MacOS, Anaconda might be an option: https://www.anaconda.com
 
 ### Editors
 
