@@ -28,7 +28,7 @@ Links
 This course focusses on **Python 3**. Please ensure that you install the
 correction version!
 
-* Linux: Preferably use the system repository (i.e., sudo apt install python3)
+* Linux: Preferably use the system repository (i.e., `sudo apt install python3`)
 * Windows / Mac: https://www.python.org/downloads/
 * For Linux, Windows, MacOS, Anaconda might be an option: https://www.anaconda.com
 
