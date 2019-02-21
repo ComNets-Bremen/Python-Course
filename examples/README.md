@@ -96,7 +96,7 @@ Depending on your Python installation, you might get an error message
 complaining that a package is missing like for example the numpy package. You
 can install most packages using the pip tool.
 
-* On Unix / Linux / MacOS, you can usually use `pip install <package name>` to
+* On Unix / Linux / MacOS, you can usually use `pip3 install <package name>` to
   install packages
 * On Windows, you will find the corresponding command in the
   `C:\Python2x\Scripts` directory. Open a shell, change into that directory and
@@ -104,9 +104,9 @@ can install most packages using the pip tool.
 
 For this tutorial, the following packages are required:
 
-* `pip install numpy`
-* `pip install python-dateutil`
-* `pip install matplotlib`
+* `pip3 install numpy`
+* `pip3 install python-dateutil`
+* `pip3 install matplotlib`
 
 For Linux based systems, you can also install the packages using the system
 package manager. On a Debian / Ubuntu system, the following commands will

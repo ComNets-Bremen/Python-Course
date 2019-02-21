@@ -20,10 +20,9 @@ Content
   class.
 * `slides`: Contains the introduction slides for this course.
 
-Links
------
 
-### Download Python
+Installing Python 3
+-------------------
 
 This course focusses on **Python 3**. Please ensure that you install the
 correction version! The support for Python 2 ends in January 2020, c.f.
@@ -32,6 +31,20 @@ https://www.python.org/dev/peps/pep-0373/.
 * Linux: Preferably use the system repository (i.e., `sudo apt install python3`)
 * Windows / Mac: https://www.python.org/downloads/
 * For Linux, Windows, MacOS, Anaconda might be an option: https://www.anaconda.com
+
+Installing Additional Libraries
+-------------------------------
+
+You might need additional functionality which is packet into separate
+libraries. Depending on your installation method, you can install for example
+`matplotlib` -- a library for graphing -- as follows:
+
+* Debian-based Linux distributions like Ubuntu: `sudo apt install python3-matplotlib`
+* Anaconda: `conda install matplotlib`
+* *Classical* installation: `pip3 install matplotlib`
+
+Links
+-----
 
 ### Editors
 
@@ -44,6 +57,7 @@ but it is worth having a look on more powerful editors like for example:
 * Programmers Notepad (Windows): http://www.pnotepad.org/
 * Eclipse (all): https://eclipse.org/
 * Scite (all): http://www.scintilla.org/SciTE.html
+* Visual Studio Code (all): https://code.visualstudio.com/
 * ...
 
 
