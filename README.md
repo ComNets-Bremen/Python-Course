@@ -26,7 +26,8 @@ Links
 ### Download Python
 
 This course focusses on **Python 3**. Please ensure that you install the
-correction version!
+correction version! The support for Python 2 ends in January 2020, c.f.
+https://www.python.org/dev/peps/pep-0373/.
 
 * Linux: Preferably use the system repository (i.e., `sudo apt install python3`)
 * Windows / Mac: https://www.python.org/downloads/
@@ -50,14 +51,17 @@ but it is worth having a look on more powerful editors like for example:
 
 The Internet is full of programming tutorials. Here, we list a couple of them:
 
-* Code Academy (Online): https://www.codecademy.com
-* Think Python (PDF): http://www.greenteapress.com/thinkpython/thinkpython.pdf
-* Dive into Python (Online, PDF): http://www.diveintopython.net/
-* wikibooks: https://en.wikibooks.org/wiki/Subject:Python_programming_language
-* Easy step-by-step tutorial: https://likegeeks.com/python-programming-basics/
-* Official Python Docs: https://docs.python.org/2/
-* Official Python Tutorial: https://docs.python.org/2/tutorial/index.html
-* How to write good idiomatic Python: https://github.com/JeffPaine/beautiful_idiomatic_python/blob/master/README.md
+* Think Python (PDF, Python 2): http://www.greenteapress.com/thinkpython/thinkpython.pdf
+* wikibooks (Python 2, Python 3): https://en.wikibooks.org/wiki/Subject:Python_programming_language
+* Easy step-by-step tutorial (Python 3): https://likegeeks.com/python-programming-basics/
+* Official Python Docs (Python 3): https://docs.python.org/3/
+* Official Python Tutorial (Python 3): https://docs.python.org/2/tutorial/
+* How to write good idiomatic Python (Python 2, Python 3): https://github.com/JeffPaine/beautiful_idiomatic_python/blob/master/README.md
+
+More experienced tutorials:
+
+* Beginning Game Programming for Teens with Python (Python 2): https://www.raywenderlich.com/2795-beginning-game-programming-for-teens-with-python
+* Program Arcade Games with Python and Pygame (Python 3): http://programarcadegames.com/
 
 ### Online Interpreters
 
