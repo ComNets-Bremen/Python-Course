@@ -93,3 +93,5 @@ ENV/
 
 # vi(m) stuff
 *.swp
+
+*.pdf

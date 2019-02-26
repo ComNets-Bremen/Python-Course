@@ -1,4 +1,4 @@
 output.csv
 file.json
 *.bak
-output.pdf
+__pycache__
