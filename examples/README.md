@@ -84,6 +84,78 @@ use certain functions.
 1. [21_exceptionsExample.py](21_exceptionsExample.py)
 
 
+Libraries and the corresponding references
+==========================================
+
+This section briefly introduces commonly used libraries for Python. Some
+libraries offer similar functionality. The choice depends on the project
+requirements and often on the personal preferences.
+
+SciPy
+-----
+
+SciPy is a library for scientific calculations and offers for example
+algorithms for Fourier Transforms, Interpolation, Statistics etc.
+
+* [Webpage](https://www.scipy.org/)
+* [Reference documentation](https://docs.scipy.org/doc/scipy/reference/)
+
+numpy
+-----
+
+Numpy is a library for efficient numeric calculations. It is a base library of
+SciPy.
+
+* [Webpage](http://www.numpy.org/)
+* [Reference documentation](https://docs.scipy.org/doc/numpy/reference/)
+
+Pandas
+------
+
+Pandas is a library for high-performance data analysis.
+
+* [Webpage](https://pandas.pydata.org)
+* [Reference documentation](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
+
+matplotlib
+----------
+
+matplotlib is a graphing library for Python. It can create nice graphs
+comparable to the ones creates using Matlab. It is commonly used together mit
+Scipy and numpy.
+
+* [Webpage](https://matplotlib.org/)
+* [Examples](https://matplotlib.org/gallery/index.html)
+* [Tutorials](https://matplotlib.org/tutorials/index.html)
+* [Reference documentation](https://matplotlib.org/api/index.html)
+
+Seaborn
+-------
+
+Seaborn is based on matplotlib and specialized on statistical data
+visualization.
+
+* [Webpage](https://seaborn.pydata.org/)
+* [Reference documentation](https://seaborn.pydata.org/api.html)
+
+tkinter
+-------
+
+tkinter is a library for platform-independent GUI-design using Python.
+
+* [Webpage](https://wiki.python.org/moin/TkInter)
+* [Referecne documentation](https://docs.python.org/3/library/tk.html)
+
+kivy
+----
+
+kivy is Python library for the development of touch GUI applications on
+Windows, Linux, OS X, Android, iOS and RaspberryPi.
+
+* [Webpage](https://kivy.org)
+* [Examples](https://kivy.org/#gallery)
+* [Reference documentation](https://kivy.org/doc/stable/api-kivy.html)
+
 FAQ
 ===
 
