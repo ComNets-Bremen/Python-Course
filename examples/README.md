@@ -138,6 +138,13 @@ visualization.
 * [Webpage](https://seaborn.pydata.org/)
 * [Reference documentation](https://seaborn.pydata.org/api.html)
 
+pyserial
+--------
+
+Library for serial communication in Python.
+
+* [Reference and webpage](https://pythonhosted.org/pyserial/)
+
 tkinter
 -------
 
@@ -155,6 +162,31 @@ Windows, Linux, OS X, Android, iOS and RaspberryPi.
 * [Webpage](https://kivy.org)
 * [Examples](https://kivy.org/#gallery)
 * [Reference documentation](https://kivy.org/doc/stable/api-kivy.html)
+
+Virtual environment
+===================
+
+Sometimes a project requires the installation of libraries which are either not
+available as packages for the current used system or the user can not install
+them (limited system access, beta version etc.).
+
+For this case, Python3 comes with a module called `virtualenv` (virtual
+environment). It creates a separate directory with an isolated Python path.
+`virtualenv` is used on the command line and is handled as follows:
+
+* Create a new virtual environment in the current directory: `python3 -m
+  virtualenv .` This directory only has access to the core libraries of the
+  system.
+* Create a new virtual environment in the current directory **which has access
+  to the system wide installed libraries**: `python3 -m virtualenv .
+  --system-site-packages`
+* Activate the virtual environment: `. ./bin/activate`. The name of the
+  environment will be indicated with its name on the command line
+* Deactivate the currently used virtual environment: `deactivate`
+* Install packages in the environment: `pip3 install <packagename>`
+
+Additional information can be found in the official [Python3 documentation of
+the package](https://docs.python.org/3/library/venv.html)
 
 FAQ
 ===
