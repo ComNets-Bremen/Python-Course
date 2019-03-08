@@ -57,11 +57,13 @@ plain text files (i.e. not tools as Libreoffice Writer or Microsoft Word). All
 major operating systems some with such an editor (Notepad in case of Windows)
 but it is worth having a look on more powerful editors like for example:
 
+* Spyder (also shipped with Anaconda): https://www.spyder-ide.org/
 * Notepad++ (Windows): https://notepad-plus-plus.org
 * Programmers Notepad (Windows): http://www.pnotepad.org/
 * Eclipse (all): https://eclipse.org/
 * Scite (all): http://www.scintilla.org/SciTE.html
 * Visual Studio Code (all): https://code.visualstudio.com/
+* Jupyter (also shipped with Anaconda): https://jupyter.org/
 * ...
 
 
