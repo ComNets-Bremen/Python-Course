@@ -28,9 +28,13 @@ This course focusses on **Python 3**. Please ensure that you install the
 correction version! The support for Python 2 ends in January 2020, c.f.
 https://www.python.org/dev/peps/pep-0373/.
 
+For Linux, Windows, MacOS, Anaconda is a good option to install Python including all dependencies: https://www.anaconda.com
+
+Alternatively, you can also use the classic installation methods:
+
 * Linux: Preferably use the system repository (i.e., `sudo apt install python3`)
 * Windows / Mac: https://www.python.org/downloads/
-* For Linux, Windows, MacOS, Anaconda might be an option: https://www.anaconda.com
+
 
 Installing Additional Libraries
 -------------------------------
