@@ -163,6 +163,19 @@ Windows, Linux, OS X, Android, iOS and RaspberryPi.
 * [Examples](https://kivy.org/#gallery)
 * [Reference documentation](https://kivy.org/doc/stable/api-kivy.html)
 
+
+SQLAlchemy
+----------
+
+SQLAlchemy is an ORM (object-relational mapper), i.e. it represents
+database interactions like for example with SQLite as objects in Python. Using
+SQLAlchemy, one can write data to a database without knowing SQL.
+
+* [Webpage](https://www.sqlalchemy.org/)
+* [Tutorial](https://www.sqlalchemy.org/library.html#tutorials)
+* [API](https://docs.sqlalchemy.org/en/latest/)
+
+
 Virtual environment
 ===================
 
