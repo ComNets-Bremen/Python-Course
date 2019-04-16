@@ -35,6 +35,12 @@ Alternatively, you can also use the classic installation methods:
 * Linux: Preferably use the system repository (i.e., `sudo apt install python3`)
 * Windows / Mac: https://www.python.org/downloads/
 
+Although one could use arbitrary text editors for programming, we will give a brief introduction to two editors:
+
+* Jupyter Notebook (web-based)
+* Spyder
+
+Both are shipped with Anaconda.
 
 Installing Additional Libraries
 -------------------------------
