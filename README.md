@@ -37,8 +37,8 @@ Alternatively, you can also use the classic installation methods:
 
 Although one could use arbitrary text editors for programming, we will give a brief introduction to two editors:
 
-* Jupyter Notebook (web-based)
 * Spyder
+* Jupyter Notebook (web-based)
 
 Both are shipped with Anaconda.
 
