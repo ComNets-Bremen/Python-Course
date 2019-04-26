@@ -12,8 +12,6 @@ Jens Dede, 2019, jd@comnets.uni-bremen.de
 variableA = 1
 variableB = "Text"
 myAccommodation = "Tent"
-accommodations = ["House", "Apartment", "Tent"]
-
 
 # If..else
 print("Simple if..else")
@@ -40,10 +38,6 @@ if variableA == 1 and variableB == "Text":
 else:
     print("This is not true")
 
-# Compare to a list
-print("Compare to a list")
-if myAccommodation in accommodations:
-    print("I have an accommodation")
-else:
-    print("I do not have an accommodation")
-
+# What to try out
+#################
+# - Try out different conditions with and and or

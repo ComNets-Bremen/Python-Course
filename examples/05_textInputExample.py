@@ -14,5 +14,16 @@ name = input("Please enter your name:")
 print("Hi,",name)
 
 # Number input
-number = eval(input ("Please enter a number:"))
+number = int(input ("Please enter a number:"))
 print("Here are your numbers:", list(range(number))) # Print range of numbers
+
+# Check if the input is numeric
+number = input("Please enter a number:")
+if number.isdecimal():
+    print("Number")
+else:
+    print("Not a number!")
+
+# What to try out
+#################
+# - How to enter a float and perform calculations with it?

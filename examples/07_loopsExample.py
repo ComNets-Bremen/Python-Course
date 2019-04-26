@@ -40,3 +40,8 @@ number = 1
 while (number < 10):
     print(number)
     number += 1 # Short form for number = number + 1, number++ does not exist
+
+# What to try out
+#################
+# - You can user several loops. Write a program which outputs a multiplication
+# table from 1 to 100 (1x1=1, 1x2=2, etc.)

@@ -19,3 +19,10 @@ myObject.hi()
 myObject.bye()
 
 print("The name is", myObject.getName())
+
+# What to try out
+#################
+# - Check the example class "myClassExample.py" in this directory. Compare it
+# with the output of this program.
+# - Extend the example class: The name should be changeable using a method after
+# the class got instantiated.

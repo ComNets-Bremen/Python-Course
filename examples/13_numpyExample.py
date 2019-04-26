@@ -31,3 +31,8 @@ print(np.arange(0, 10, 0.1))
 # Some more examples
 print(np.pi)
 print(np.sqrt(16))
+
+# What to try out
+#################
+# - Go to the online numpy documentation and check the functionality. Calculate
+# the sin and a cos of pi/4, pi/2 and pi.

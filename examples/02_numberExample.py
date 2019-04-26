@@ -13,6 +13,13 @@ f = 2.5     # A float
 
 print("Numbers", i, f)   # Print numbers
 print("Add", i+f)        # Add numbers
+print("Divide", f/2)
 print("i2f:", float(i))          # Convert int to float
 print("f2i:", int(f))            # convert float to int
 print("round:", int(round(f)))   # Do proper rounding during conversion
+print("Modulo", 5%2)             # Modulo operation
+
+# What to try out
+#################
+# - How to divide numbers
+# - What happens if you divide two integers?

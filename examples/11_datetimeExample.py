@@ -27,5 +27,9 @@ print("Parsed time format 3:", parser.parse("11:03"))
 
 print("Datetime from timestamp:", datetime.datetime.fromtimestamp(1010101010.10))
 
-newYear = datetime.datetime(2017, 1, 1)
+newYear = datetime.datetime(2019, 1, 1)
 print("New year", newYear)
+
+# What to try out
+#################
+# - You can also calculate with times. Try it out!

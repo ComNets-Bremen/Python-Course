@@ -33,3 +33,8 @@ with open("output.csv", "w") as f:
     csvWriter.writerow([1,2,3])
 
 print("Output written to \"output.csv\"")
+
+# What to try out
+#################
+# - Open the output.csv in an text editor and as a spreadsheet. Do you see the
+# connection?

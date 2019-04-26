@@ -24,3 +24,8 @@ random.shuffle(sequence)
 print("Shuffled items:", sequence)
 
 print("3 random elements out of the sequence:", random.sample(sequence,3))
+
+# What to try out
+#################
+# - Create a list of greetings and write a function which randomly greets a
+# person with a given name

@@ -27,3 +27,8 @@ def greeting(name="Nobody"):
 
 print("Greeting without argument:", greeting())
 print("Greeting with argument:", greeting("John Doe"))
+
+
+# What to try out
+#################
+# - Write a function that asks for the sex and greets accordingly

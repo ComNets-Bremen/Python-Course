@@ -51,14 +51,12 @@ t = (1,2,3,4,5)
 # Accessing tuple items
 print t, t[0]
 
-# Using tuples, it is not possible to access the last item as easy as we did it
-# for lists (a[:-2])
-
 # Iterate over a tuple
 for i in t:
     print "Tuple item", i
 
 # Tuples cannot be changed after assigning them!
+# Advantage: They are faster than lists
 
 
 # Dictionaries (dict) (key-value storage)
@@ -89,3 +87,8 @@ myDict = {
 
 print myDict
 print myDict["valueA"]
+
+# What to try out
+#################
+# - You can combine the datatypes. Create a list of dictionaries containing the
+# first name and the last name. Access the elements and change something.

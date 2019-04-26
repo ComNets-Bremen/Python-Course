@@ -27,3 +27,7 @@ plt.tight_layout()  # Fit everything to less space
 plt.savefig("output.pdf")   # Save result into file (pdf, png, jpg etc.)
 plt.show()  # Show the result on the screen
 
+# What to try out
+#################
+# - Check the documentation of matplot. How can you have two plots side by
+# side in one figure?
