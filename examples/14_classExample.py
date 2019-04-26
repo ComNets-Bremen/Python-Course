@@ -6,6 +6,9 @@ Examples for Python classes
 https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes
 
 Jens Dede, 2019, jd@comnets.uni-bremen.de
+
+This example requires the module with the name "myClassExample.py" in the same
+directory. It contains the class "helperClass" used in this program.
 """
 
 # Import class from myClassExample.py
