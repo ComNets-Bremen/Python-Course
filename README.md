@@ -73,11 +73,12 @@ but it is worth having a look on more powerful editors like for example:
 * ...
 
 
-### Tutorials
+### Tutorials and cheat sheets
 
 The Internet is full of programming tutorials. Here, we list a couple of them:
 
 * Think Python (PDF, Python 2): http://www.greenteapress.com/thinkpython/thinkpython.pdf
+* A web-cheatsheet for Python: https://www.pythoncheatsheet.org
 * wikibooks (Python 2, Python 3): https://en.wikibooks.org/wiki/Subject:Python_programming_language
 * Easy step-by-step tutorial (Python 3): https://likegeeks.com/python-programming-basics/
 * Official Python Docs (Python 3): https://docs.python.org/3/
